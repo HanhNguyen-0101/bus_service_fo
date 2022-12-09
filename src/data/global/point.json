@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "address": "Đối diện Hẻm 353 Phạm Ngũ Lão, P.Phạm Ngũ Lão, Phường Phạm Ngũ Lão, Quận 1, Hồ Chí Minh",
+    "position": "#",
+    "time": "2022-08-22T17:30:28.123Z",
+    "station": "Sân Bay Tân Sơn Nhất",
+    "shuttle": false,
+    "createdAt": "2022-08-17T02:03:16.000Z",
+    "updatedAt": "2022-08-17T02:21:41.000Z"
+  },
+  {
+    "id": 2,
+    "address": "Đối diện Hẻm 353 Phạm Ngũ Lão, P.Phạm Ngũ Lão, Phường Phạm Ngũ Lão, Quận 1, Hồ Chí Minh",
+    "position": "#",
+    "time": "2022-08-22T17:35:28.123Z",
+    "station": "Cây xăng 184 Nguyễn Văn Trỗi",
+    "shuttle": false,
+    "createdAt": "2022-08-17T02:03:16.000Z",
+    "updatedAt": "2022-08-17T02:21:41.000Z"
+  },
+  {
+    "id": 3,
+    "address": "Đối diện Hẻm 353 Phạm Ngũ Lão, P.Phạm Ngũ Lão, Phường Phạm Ngũ Lão, Quận 1, Hồ Chí Minh",
+    "position": "#",
+    "time": "2022-08-22T17:45:28.123Z",
+    "station": "Parkson Cantavil Quận 2",
+    "shuttle": false,
+    "createdAt": "2022-08-17T02:03:16.000Z",
+    "updatedAt": "2022-08-17T02:21:41.000Z"
+  },
+  {
+    "id": 4,
+    "address": "Đối diện Hẻm 353 Phạm Ngũ Lão, P.Phạm Ngũ Lão, Phường Phạm Ngũ Lão, Quận 1, Hồ Chí Minh",
+    "position": "#",
+    "time": "2022-08-22T18:07:28.123Z",
+    "station": "Công viên Lê Văn Tám",
+    "shuttle": false,
+    "createdAt": "2022-08-17T02:03:16.000Z",
+    "updatedAt": "2022-08-17T02:21:41.000Z"
+  },
+  {
+    "id": 5,
+    "address": "Đối diện Hẻm 353 Phạm Ngũ Lão, P.Phạm Ngũ Lão, Phường Phạm Ngũ Lão, Quận 1, Hồ Chí Minh",
+    "position": "#",
+    "time": "2022-08-22T18:08:28.123Z",
+    "station": "KDL Văn Thánh",
+    "shuttle": false,
+    "createdAt": "2022-08-17T02:03:16.000Z",
+    "updatedAt": "2022-08-17T02:21:41.000Z"
+  },
+  {
+    "id": 6,
+    "address": "Đối diện Hẻm 353 Phạm Ngũ Lão, P.Phạm Ngũ Lão, Phường Phạm Ngũ Lão, Quận 1, Hồ Chí Minh",
+    "position": "#",
+    "time": "2022-08-22T18:10:28.123Z",
+    "station": "Đầu cao tốc - Công viên Ngã Ba An Phú",
+    "shuttle": false,
+    "createdAt": "2022-08-17T02:03:16.000Z",
+    "updatedAt": "2022-08-17T02:21:41.000Z"
+  },
+  {
+    "id": 7,
+    "address": "Đối diện Hẻm 353 Phạm Ngũ Lão, P.Phạm Ngũ Lão, Phường Phạm Ngũ Lão, Quận 1, Hồ Chí Minh",
+    "position": "#",
+    "time": "2022-08-22T18:30:28.123Z",
+    "station": "Chùa Vạn Phật Quang - Đại Tòng Lâm Tự",
+    "shuttle": false,
+    "createdAt": "2022-08-17T02:03:16.000Z",
+    "updatedAt": "2022-08-17T02:21:41.000Z"
+  },
+  {
+    "id": 8,
+    "address": "Đối diện Hẻm 353 Phạm Ngũ Lão, P.Phạm Ngũ Lão, Phường Phạm Ngũ Lão, Quận 1, Hồ Chí Minh",
+    "position": "#",
+    "time": "2022-08-22T18:40:28.123Z",
+    "station": "Chợ Phước Hòa",
+    "shuttle": false,
+    "createdAt": "2022-08-17T02:03:16.000Z",
+    "updatedAt": "2022-08-17T02:21:41.000Z"
+  },
+  {
+    "id": 9,
+    "address": "Đối diện Hẻm 353 Phạm Ngũ Lão, P.Phạm Ngũ Lão, Phường Phạm Ngũ Lão, Quận 1, Hồ Chí Minh",
+    "position": "#",
+    "time": "2022-08-22T18:40:28.123Z",
+    "station": "Chùa Vạn Thông",
+    "shuttle": false,
+    "createdAt": "2022-08-17T02:03:16.000Z",
+    "updatedAt": "2022-08-17T02:21:41.000Z"
+  },
+  {
+    "id": 10,
+    "address": "Đối diện Hẻm 353 Phạm Ngũ Lão, P.Phạm Ngũ Lão, Phường Phạm Ngũ Lão, Quận 1, Hồ Chí Minh",
+    "position": "#",
+    "time": "2022-08-22T18:45:28.123Z",
+    "station": "Nhà thờ Lam Sơn",
+    "shuttle": false,
+    "createdAt": "2022-08-17T02:03:16.000Z",
+    "updatedAt": "2022-08-17T02:21:41.000Z"
+  },
+  {
+    "id": 11,
+    "address": "Đối diện Hẻm 353 Phạm Ngũ Lão, P.Phạm Ngũ Lão, Phường Phạm Ngũ Lão, Quận 1, Hồ Chí Minh",
+    "position": "#",
+    "time": "2022-08-22T18:50:28.123Z",
+    "station": "Ủy ban nhân dân xã Tân Hải",
+    "shuttle": false,
+    "createdAt": "2022-08-17T02:03:16.000Z",
+    "updatedAt": "2022-08-17T02:21:41.000Z"
+  },
+  {
+    "id": 12,
+    "address": "Đối diện Hẻm 353 Phạm Ngũ Lão, P.Phạm Ngũ Lão, Phường Phạm Ngũ Lão, Quận 1, Hồ Chí Minh",
+    "position": "#",
+    "time": "2022-08-22T18:55:28.123Z",
+    "station": "Cây xăng Kim Hải",
+    "shuttle": false,
+    "createdAt": "2022-08-17T02:03:16.000Z",
+    "updatedAt": "2022-08-17T02:21:41.000Z"
+  },
+  {
+    "id": 13,
+    "address": "Đối diện Hẻm 353 Phạm Ngũ Lão, P.Phạm Ngũ Lão, Phường Phạm Ngũ Lão, Quận 1, Hồ Chí Minh",
+    "position": "#",
+    "time": "2022-08-22T18:55:28.123Z",
+    "station": "Giáo xứ Chu Hải",
+    "shuttle": false,
+    "createdAt": "2022-08-17T02:03:16.000Z",
+    "updatedAt": "2022-08-17T02:21:41.000Z"
+  },
+  {
+    "id": 14,
+    "address": "Đối diện Hẻm 353 Phạm Ngũ Lão, P.Phạm Ngũ Lão, Phường Phạm Ngũ Lão, Quận 1, Hồ Chí Minh",
+    "position": "#",
+    "time": "2022-08-22T18:55:28.123Z",
+    "station": "Chợ Chu Hải",
+    "shuttle": false,
+    "createdAt": "2022-08-17T02:03:16.000Z",
+    "updatedAt": "2022-08-17T02:21:41.000Z"
+  },
+  {
+    "id": 15,
+    "address": "Đối diện Hẻm 353 Phạm Ngũ Lão, P.Phạm Ngũ Lão, Phường Phạm Ngũ Lão, Quận 1, Hồ Chí Minh",
+    "position": "#",
+    "time": "2022-08-22T18:55:28.123Z",
+    "station": "Nhà thờ Kim Hải",
+    "shuttle": false,
+    "createdAt": "2022-08-17T02:03:16.000Z",
+    "updatedAt": "2022-08-17T02:21:41.000Z"
+  },
+  {
+    "id": 16,
+    "address": "Đối diện Hẻm 353 Phạm Ngũ Lão, P.Phạm Ngũ Lão, Phường Phạm Ngũ Lão, Quận 1, Hồ Chí Minh",
+    "position": "#",
+    "time": "2022-08-22T19:00:28.123Z",
+    "station": "Bánh canh Trảng Bàng Năm Dung",
+    "shuttle": false,
+    "createdAt": "2022-08-17T02:03:16.000Z",
+    "updatedAt": "2022-08-17T02:21:41.000Z"
+  },
+  {
+    "id": 17,
+    "address": "Đối diện Hẻm 353 Phạm Ngũ Lão, P.Phạm Ngũ Lão, Phường Phạm Ngũ Lão, Quận 1, Hồ Chí Minh",
+    "position": "#",
+    "time": "2022-08-22T09:00:28.123Z",
+    "station": "Dọc QL 51 - Tân Thành",
+    "shuttle": true,
+    "createdAt": "2022-08-17T02:03:16.000Z",
+    "updatedAt": "2022-08-17T02:21:41.000Z"
+  },
+  {
+    "id": 18,
+    "address": "Đối diện Hẻm 353 Phạm Ngũ Lão, P.Phạm Ngũ Lão, Phường Phạm Ngũ Lão, Quận 1, Hồ Chí Minh",
+    "position": "#",
+    "time": "2022-08-22T19:10:28.123Z",
+    "station": "Cổng chào Bà Rịa",
+    "shuttle": false,
+    "createdAt": "2022-08-17T02:03:16.000Z",
+    "updatedAt": "2022-08-17T02:21:41.000Z"
+  },
+  {
+    "id": 19,
+    "address": "Đối diện Hẻm 353 Phạm Ngũ Lão, P.Phạm Ngũ Lão, Phường Phạm Ngũ Lão, Quận 1, Hồ Chí Minh",
+    "position": "#",
+    "time": "2022-08-22T19:30:28.123Z",
+    "station": "Văn Phòng Vũng Tàu",
+    "shuttle": false,
+    "createdAt": "2022-08-17T02:03:16.000Z",
+    "updatedAt": "2022-08-17T02:21:41.000Z"
+  },
+  {
+    "id": 20,
+    "address": "Đối diện Hẻm 353 Phạm Ngũ Lão, P.Phạm Ngũ Lão, Phường Phạm Ngũ Lão, Quận 1, Hồ Chí Minh",
+    "position": "#",
+    "time": "2022-08-22T09:40:28.123Z",
+    "station": "Nội thành Vũng Tàu",
+    "shuttle": true,
+    "createdAt": "2022-08-17T02:03:16.000Z",
+    "updatedAt": "2022-08-17T02:21:41.000Z"
+  }
+]

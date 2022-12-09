@@ -1,0 +1,1877 @@
+[
+  {
+    "id": 1,
+    "name": "A9",
+    "createdAt": "2022-08-17T02:03:16.000Z",
+    "updatedAt": "2022-08-17T02:21:41.000Z",
+    "vehicledId": 2,
+    "seatStatusId": 1,
+    "seatStatus": {
+      "id": 1,
+      "name": "AVAILABLE",
+      "createdAt": "2022-08-17T02:03:16.000Z",
+      "updatedAt": "2022-08-17T02:21:41.000Z"
+    },
+    "seatVehicle": {
+      "id": 2,
+      "name": "72-C1 0012",
+      "image": "https://storage.googleapis.com/vex-config/cms-tool/post/images/163/img_card.png",
+      "numberFloor": 2,
+      "numberSeat": 45,
+      "promo": "{\"percent\":0.5,\"max\":350}",
+      "point": "{\"pickup\":[1,2,3,4,5,6],\"dropoff\":[7,8,9,10,11,12,13,14,15,16,17,18,19,20]}",
+      "createdAt": "2022-08-17T02:03:16.000Z",
+      "updatedAt": "2022-08-17T02:21:41.000Z",
+      "busTypeId": 2,
+      "tripId": 3,
+      "passengerCarCompaniesId": 2,
+      "vehiclePassengerCarCompanies": {
+        "id": 2,
+        "name": "Xe Hải Âu",
+        "address": "10/2, District 12",
+        "content": "<div className='text-alibus>Hello</div>",
+        "review": "{\"safety\":6.5,\"clear info\":7,\"facilities\":5,\"service quality\":8,\"employee\":5.5}",
+        "comments": 234,
+        "image": "https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg",
+        "description": "Note that in the previous example, we have created objects inside another class and accessed the members from that class.",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+      },
+      "vehicleTrip": {
+        "id": 3,
+        "startTime": 120,
+        "price": 1200000,
+        "image": "https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg",
+        "tripAt": "2022-08-17T02:03:16.000Z",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z",
+        "fromStation": 2,
+        "toStation": 4,
+        "from": {
+          "id": 2,
+          "name": "Bến xe Gia Lâm",
+          "address": "395 Kinh Đ. Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh",
+          "image": "https://storage.googleapis.com/fe-production/images/bx-gia-lam.jpg",
+          "createdAt": "2022-08-17T02:03:16.000Z",
+          "updatedAt": "2022-08-17T02:21:41.000Z",
+          "provinceId": 49
+        },
+        "to": {
+          "id": 4,
+          "name": "Bến xe Mỹ Đình",
+          "address": "395 Kinh Đ. Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh",
+          "image": "https://storage.googleapis.com/fe-production/images/bx-my-dinh.jpg",
+          "createdAt": "2022-08-17T02:03:16.000Z",
+          "updatedAt": "2022-08-17T02:21:41.000Z",
+          "provinceId": 49
+        }
+      },
+      "vehicleBusType": {
+        "id": 2,
+        "name": "ghế nằm",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+      }
+    }
+  },
+  {
+    "id": 2,
+    "name": "A19",
+    "createdAt": "2022-08-17T02:03:16.000Z",
+    "updatedAt": "2022-08-17T02:21:41.000Z",
+    "vehicledId": 3,
+    "seatStatusId": 1,
+    "seatStatus": {
+      "id": 1,
+      "name": "AVAILABLE",
+      "createdAt": "2022-08-17T02:03:16.000Z",
+      "updatedAt": "2022-08-17T02:21:41.000Z"
+    },
+    "seatVehicle": {
+      "id": 3,
+      "name": "60-C1 0012",
+      "image": "https://storage.googleapis.com/vex-config/cms-tool/post/images/163/img_card.png",
+      "numberFloor": 2,
+      "numberSeat": 24,
+      "promo": "{\"percent\":0.3,\"max\":250}",
+      "point": "{\"pickup\":[1,2,3,4,5,6],\"dropoff\":[7,8,9,10,11,12,13,14,15,16,17,18,19,20]}",
+      "createdAt": "2022-08-17T02:03:16.000Z",
+      "updatedAt": "2022-08-17T02:21:41.000Z",
+      "busTypeId": 2,
+      "tripId": 6,
+      "passengerCarCompaniesId": 3,
+      "vehiclePassengerCarCompanies": {
+        "id": 3,
+        "name": "Xe Văn Minh",
+        "address": "10/2, District 12",
+        "content": "<div className='text-alibus>Hello</div>",
+        "review": "{\"safety\":6.5,\"clear info\":7,\"facilities\":5,\"service quality\":8,\"employee\":5.5}",
+        "comments": 234,
+        "image": "https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg",
+        "description": "Note that in the previous example, we have created objects inside another class and accessed the members from that class.",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+      },
+      "vehicleTrip": {
+        "id": 6,
+        "startTime": 90,
+        "price": 450000,
+        "image": "https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg",
+        "tripAt": "2022-08-17T02:03:16.000Z",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z",
+        "fromStation": 3,
+        "toStation": 4,
+        "from": {
+          "id": 3,
+          "name": "Bến xe Nước Ngầm",
+          "address": "395 Kinh Đ. Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh",
+          "image": "https://storage.googleapis.com/fe-production/images/bx-nuoc-ngam.jpg",
+          "createdAt": "2022-08-17T02:03:16.000Z",
+          "updatedAt": "2022-08-17T02:21:41.000Z",
+          "provinceId": 49
+        },
+        "to": {
+          "id": 4,
+          "name": "Bến xe Mỹ Đình",
+          "address": "395 Kinh Đ. Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh",
+          "image": "https://storage.googleapis.com/fe-production/images/bx-my-dinh.jpg",
+          "createdAt": "2022-08-17T02:03:16.000Z",
+          "updatedAt": "2022-08-17T02:21:41.000Z",
+          "provinceId": 49
+        }
+      },
+      "vehicleBusType": {
+        "id": 2,
+        "name": "ghế nằm",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+      }
+    }
+  },
+  {
+    "id": 3,
+    "name": "A7",
+    "createdAt": "2022-08-17T02:03:16.000Z",
+    "updatedAt": "2022-08-17T02:21:41.000Z",
+    "vehicledId": 1,
+    "seatStatusId": 2,
+    "seatStatus": {
+      "id": 2,
+      "name": "BOOKED",
+      "createdAt": "2022-08-17T02:03:16.000Z",
+      "updatedAt": "2022-08-17T02:21:41.000Z"
+    },
+    "seatVehicle": {
+      "id": 1,
+      "name": "52-C1 0012",
+      "image": "https://storage.googleapis.com/vex-config/cms-tool/post/images/163/img_card.png",
+      "numberFloor": 2,
+      "numberSeat": 16,
+      "promo": "{\"percent\":0.2,\"max\":250}",
+      "point": "{\"pickup\":[1,2,3,4,5,6],\"dropoff\":[7,8,9,10,11,12,13,14,15,16,17,18,19,20]}",
+      "createdAt": "2022-08-17T02:03:16.000Z",
+      "updatedAt": "2022-08-17T02:21:41.000Z",
+      "busTypeId": 3,
+      "tripId": 1,
+      "passengerCarCompaniesId": 1,
+      "vehiclePassengerCarCompanies": {
+        "id": 1,
+        "name": "Xe Sao Việt",
+        "address": "10/2, District 12",
+        "content": "<div className=\"text-green-400\">Test 1</div>",
+        "review": "{\"safety\":6.5,\"clear info\":7,\"facilities\":5,\"service quality\":8,\"employee\":5.5}",
+        "comments": 234,
+        "image": "https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg",
+        "description": "Note that in the previous example, we have created objects inside another class and accessed the members from that class.",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+      },
+      "vehicleTrip": {
+        "id": 1,
+        "startTime": 120,
+        "price": 450000,
+        "image": "https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg",
+        "tripAt": "2022-09-29T13:03:16.000Z",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z",
+        "fromStation": 3,
+        "toStation": 7,
+        "from": {
+          "id": 3,
+          "name": "Bến xe Nước Ngầm",
+          "address": "395 Kinh Đ. Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh",
+          "image": "https://storage.googleapis.com/fe-production/images/bx-nuoc-ngam.jpg",
+          "createdAt": "2022-08-17T02:03:16.000Z",
+          "updatedAt": "2022-08-17T02:21:41.000Z",
+          "provinceId": 49
+        },
+        "to": {
+          "id": 7,
+          "name": "Bến xe miền Tây",
+          "address": "395 Kinh Đ. Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh",
+          "image": "https://storage.googleapis.com/fe-production/images/bx-my-dinh.jpg",
+          "createdAt": "2022-08-17T02:03:16.000Z",
+          "updatedAt": "2022-08-17T02:21:41.000Z",
+          "provinceId": 49
+        }
+      },
+      "vehicleBusType": {
+        "id": 3,
+        "name": "giường nằm",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+      }
+    }
+  },
+  {
+    "id": 4,
+    "name": "A11",
+    "createdAt": "2022-08-17T02:03:16.000Z",
+    "updatedAt": "2022-08-17T02:21:41.000Z",
+    "vehicledId": 2,
+    "seatStatusId": 1,
+    "seatStatus": {
+      "id": 1,
+      "name": "AVAILABLE",
+      "createdAt": "2022-08-17T02:03:16.000Z",
+      "updatedAt": "2022-08-17T02:21:41.000Z"
+    },
+    "seatVehicle": {
+      "id": 2,
+      "name": "72-C1 0012",
+      "image": "https://storage.googleapis.com/vex-config/cms-tool/post/images/163/img_card.png",
+      "numberFloor": 2,
+      "numberSeat": 45,
+      "promo": "{\"percent\":0.5,\"max\":350}",
+      "point": "{\"pickup\":[1,2,3,4,5,6],\"dropoff\":[7,8,9,10,11,12,13,14,15,16,17,18,19,20]}",
+      "createdAt": "2022-08-17T02:03:16.000Z",
+      "updatedAt": "2022-08-17T02:21:41.000Z",
+      "busTypeId": 2,
+      "tripId": 3,
+      "passengerCarCompaniesId": 2,
+      "vehiclePassengerCarCompanies": {
+        "id": 2,
+        "name": "Xe Hải Âu",
+        "address": "10/2, District 12",
+        "content": "<div className='text-alibus>Hello</div>",
+        "review": "{\"safety\":6.5,\"clear info\":7,\"facilities\":5,\"service quality\":8,\"employee\":5.5}",
+        "comments": 234,
+        "image": "https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg",
+        "description": "Note that in the previous example, we have created objects inside another class and accessed the members from that class.",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+      },
+      "vehicleTrip": {
+        "id": 3,
+        "startTime": 120,
+        "price": 1200000,
+        "image": "https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg",
+        "tripAt": "2022-08-17T02:03:16.000Z",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z",
+        "fromStation": 2,
+        "toStation": 4,
+        "from": {
+          "id": 2,
+          "name": "Bến xe Gia Lâm",
+          "address": "395 Kinh Đ. Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh",
+          "image": "https://storage.googleapis.com/fe-production/images/bx-gia-lam.jpg",
+          "createdAt": "2022-08-17T02:03:16.000Z",
+          "updatedAt": "2022-08-17T02:21:41.000Z",
+          "provinceId": 49
+        },
+        "to": {
+          "id": 4,
+          "name": "Bến xe Mỹ Đình",
+          "address": "395 Kinh Đ. Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh",
+          "image": "https://storage.googleapis.com/fe-production/images/bx-my-dinh.jpg",
+          "createdAt": "2022-08-17T02:03:16.000Z",
+          "updatedAt": "2022-08-17T02:21:41.000Z",
+          "provinceId": 49
+        }
+      },
+      "vehicleBusType": {
+        "id": 2,
+        "name": "ghế nằm",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+      }
+    }
+  },
+  {
+    "id": 5,
+    "name": "A9",
+    "createdAt": "2022-08-17T02:03:16.000Z",
+    "updatedAt": "2022-08-17T02:21:41.000Z",
+    "vehicledId": 2,
+    "seatStatusId": 1,
+    "seatStatus": {
+      "id": 1,
+      "name": "AVAILABLE",
+      "createdAt": "2022-08-17T02:03:16.000Z",
+      "updatedAt": "2022-08-17T02:21:41.000Z"
+    },
+    "seatVehicle": {
+      "id": 2,
+      "name": "72-C1 0012",
+      "image": "https://storage.googleapis.com/vex-config/cms-tool/post/images/163/img_card.png",
+      "numberFloor": 2,
+      "numberSeat": 45,
+      "promo": "{\"percent\":0.5,\"max\":350}",
+      "point": "{\"pickup\":[1,2,3,4,5,6],\"dropoff\":[7,8,9,10,11,12,13,14,15,16,17,18,19,20]}",
+      "createdAt": "2022-08-17T02:03:16.000Z",
+      "updatedAt": "2022-08-17T02:21:41.000Z",
+      "busTypeId": 2,
+      "tripId": 3,
+      "passengerCarCompaniesId": 2,
+      "vehiclePassengerCarCompanies": {
+        "id": 2,
+        "name": "Xe Hải Âu",
+        "address": "10/2, District 12",
+        "content": "<div className='text-alibus>Hello</div>",
+        "review": "{\"safety\":6.5,\"clear info\":7,\"facilities\":5,\"service quality\":8,\"employee\":5.5}",
+        "comments": 234,
+        "image": "https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg",
+        "description": "Note that in the previous example, we have created objects inside another class and accessed the members from that class.",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+      },
+      "vehicleTrip": {
+        "id": 3,
+        "startTime": 120,
+        "price": 1200000,
+        "image": "https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg",
+        "tripAt": "2022-08-17T02:03:16.000Z",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z",
+        "fromStation": 2,
+        "toStation": 4,
+        "from": {
+          "id": 2,
+          "name": "Bến xe Gia Lâm",
+          "address": "395 Kinh Đ. Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh",
+          "image": "https://storage.googleapis.com/fe-production/images/bx-gia-lam.jpg",
+          "createdAt": "2022-08-17T02:03:16.000Z",
+          "updatedAt": "2022-08-17T02:21:41.000Z",
+          "provinceId": 49
+        },
+        "to": {
+          "id": 4,
+          "name": "Bến xe Mỹ Đình",
+          "address": "395 Kinh Đ. Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh",
+          "image": "https://storage.googleapis.com/fe-production/images/bx-my-dinh.jpg",
+          "createdAt": "2022-08-17T02:03:16.000Z",
+          "updatedAt": "2022-08-17T02:21:41.000Z",
+          "provinceId": 49
+        }
+      },
+      "vehicleBusType": {
+        "id": 2,
+        "name": "ghế nằm",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+      }
+    }
+  },
+  {
+    "id": 6,
+    "name": "B19",
+    "createdAt": "2022-08-17T02:03:16.000Z",
+    "updatedAt": "2022-08-17T02:21:41.000Z",
+    "vehicledId": 7,
+    "seatStatusId": 2,
+    "seatStatus": {
+      "id": 2,
+      "name": "BOOKED",
+      "createdAt": "2022-08-17T02:03:16.000Z",
+      "updatedAt": "2022-08-17T02:21:41.000Z"
+    },
+    "seatVehicle": {
+      "id": 7,
+      "name": "61-C1 0018",
+      "image": "https://storage.googleapis.com/vex-config/cms-tool/post/images/163/img_card.png",
+      "numberFloor": 2,
+      "numberSeat": 24,
+      "promo": "{\"percent\":0.3,\"max\":230}",
+      "point": "{\"pickup\":[1,2,3,4,5,6],\"dropoff\":[7,8,9,10,11,12,13,14,15,16,17,18,19,20]}",
+      "createdAt": "2022-08-17T02:03:16.000Z",
+      "updatedAt": "2022-08-17T02:21:41.000Z",
+      "busTypeId": 1,
+      "tripId": 2,
+      "passengerCarCompaniesId": 2,
+      "vehiclePassengerCarCompanies": {
+        "id": 2,
+        "name": "Xe Hải Âu",
+        "address": "10/2, District 12",
+        "content": "<div className='text-alibus>Hello</div>",
+        "review": "{\"safety\":6.5,\"clear info\":7,\"facilities\":5,\"service quality\":8,\"employee\":5.5}",
+        "comments": 234,
+        "image": "https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg",
+        "description": "Note that in the previous example, we have created objects inside another class and accessed the members from that class.",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+      },
+      "vehicleTrip": {
+        "id": 2,
+        "startTime": 90,
+        "price": 540000,
+        "image": "https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg",
+        "tripAt": "2022-09-29T02:03:16.000Z",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z",
+        "fromStation": 3,
+        "toStation": 7,
+        "from": {
+          "id": 3,
+          "name": "Bến xe Nước Ngầm",
+          "address": "395 Kinh Đ. Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh",
+          "image": "https://storage.googleapis.com/fe-production/images/bx-nuoc-ngam.jpg",
+          "createdAt": "2022-08-17T02:03:16.000Z",
+          "updatedAt": "2022-08-17T02:21:41.000Z",
+          "provinceId": 49
+        },
+        "to": {
+          "id": 7,
+          "name": "Bến xe miền Tây",
+          "address": "395 Kinh Đ. Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh",
+          "image": "https://storage.googleapis.com/fe-production/images/bx-my-dinh.jpg",
+          "createdAt": "2022-08-17T02:03:16.000Z",
+          "updatedAt": "2022-08-17T02:21:41.000Z",
+          "provinceId": 49
+        }
+      },
+      "vehicleBusType": {
+        "id": 1,
+        "name": "ghế",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+      }
+    }
+  },
+  {
+    "id": 7,
+    "name": "B8",
+    "createdAt": "2022-08-17T02:03:16.000Z",
+    "updatedAt": "2022-08-17T02:21:41.000Z",
+    "vehicledId": 1,
+    "seatStatusId": 2,
+    "seatStatus": {
+      "id": 2,
+      "name": "BOOKED",
+      "createdAt": "2022-08-17T02:03:16.000Z",
+      "updatedAt": "2022-08-17T02:21:41.000Z"
+    },
+    "seatVehicle": {
+      "id": 1,
+      "name": "52-C1 0012",
+      "image": "https://storage.googleapis.com/vex-config/cms-tool/post/images/163/img_card.png",
+      "numberFloor": 2,
+      "numberSeat": 16,
+      "promo": "{\"percent\":0.2,\"max\":250}",
+      "point": "{\"pickup\":[1,2,3,4,5,6],\"dropoff\":[7,8,9,10,11,12,13,14,15,16,17,18,19,20]}",
+      "createdAt": "2022-08-17T02:03:16.000Z",
+      "updatedAt": "2022-08-17T02:21:41.000Z",
+      "busTypeId": 3,
+      "tripId": 1,
+      "passengerCarCompaniesId": 1,
+      "vehiclePassengerCarCompanies": {
+        "id": 1,
+        "name": "Xe Sao Việt",
+        "address": "10/2, District 12",
+        "content": "<div className=\"text-green-400\">Test 1</div>",
+        "review": "{\"safety\":6.5,\"clear info\":7,\"facilities\":5,\"service quality\":8,\"employee\":5.5}",
+        "comments": 234,
+        "image": "https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg",
+        "description": "Note that in the previous example, we have created objects inside another class and accessed the members from that class.",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+      },
+      "vehicleTrip": {
+        "id": 1,
+        "startTime": 120,
+        "price": 450000,
+        "image": "https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg",
+        "tripAt": "2022-09-29T13:03:16.000Z",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z",
+        "fromStation": 3,
+        "toStation": 7,
+        "from": {
+          "id": 3,
+          "name": "Bến xe Nước Ngầm",
+          "address": "395 Kinh Đ. Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh",
+          "image": "https://storage.googleapis.com/fe-production/images/bx-nuoc-ngam.jpg",
+          "createdAt": "2022-08-17T02:03:16.000Z",
+          "updatedAt": "2022-08-17T02:21:41.000Z",
+          "provinceId": 49
+        },
+        "to": {
+          "id": 7,
+          "name": "Bến xe miền Tây",
+          "address": "395 Kinh Đ. Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh",
+          "image": "https://storage.googleapis.com/fe-production/images/bx-my-dinh.jpg",
+          "createdAt": "2022-08-17T02:03:16.000Z",
+          "updatedAt": "2022-08-17T02:21:41.000Z",
+          "provinceId": 49
+        }
+      },
+      "vehicleBusType": {
+        "id": 3,
+        "name": "giường nằm",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+      }
+    }
+  },
+  {
+    "id": 8,
+    "name": "B11",
+    "createdAt": "2022-08-17T02:03:16.000Z",
+    "updatedAt": "2022-08-17T02:21:41.000Z",
+    "vehicledId": 5,
+    "seatStatusId": 1,
+    "seatStatus": {
+      "id": 1,
+      "name": "AVAILABLE",
+      "createdAt": "2022-08-17T02:03:16.000Z",
+      "updatedAt": "2022-08-17T02:21:41.000Z"
+    },
+    "seatVehicle": {
+      "id": 5,
+      "name": "61-C1 0014",
+      "image": "https://storage.googleapis.com/vex-config/cms-tool/post/images/163/img_card.png",
+      "numberFloor": 2,
+      "numberSeat": 24,
+      "promo": "{\"percent\":0.5,\"max\":100}",
+      "point": "{\"pickup\":[1,2,3,4,5,6],\"dropoff\":[7,8,9,10,11,12,13,14,15,16,17,18,19,20]}",
+      "createdAt": "2022-08-17T02:03:16.000Z",
+      "updatedAt": "2022-08-17T02:21:41.000Z",
+      "busTypeId": 3,
+      "tripId": 1,
+      "passengerCarCompaniesId": 3,
+      "vehiclePassengerCarCompanies": {
+        "id": 3,
+        "name": "Xe Văn Minh",
+        "address": "10/2, District 12",
+        "content": "<div className='text-alibus>Hello</div>",
+        "review": "{\"safety\":6.5,\"clear info\":7,\"facilities\":5,\"service quality\":8,\"employee\":5.5}",
+        "comments": 234,
+        "image": "https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg",
+        "description": "Note that in the previous example, we have created objects inside another class and accessed the members from that class.",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+      },
+      "vehicleTrip": {
+        "id": 1,
+        "startTime": 120,
+        "price": 450000,
+        "image": "https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg",
+        "tripAt": "2022-09-29T13:03:16.000Z",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z",
+        "fromStation": 3,
+        "toStation": 7,
+        "from": {
+          "id": 3,
+          "name": "Bến xe Nước Ngầm",
+          "address": "395 Kinh Đ. Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh",
+          "image": "https://storage.googleapis.com/fe-production/images/bx-nuoc-ngam.jpg",
+          "createdAt": "2022-08-17T02:03:16.000Z",
+          "updatedAt": "2022-08-17T02:21:41.000Z",
+          "provinceId": 49
+        },
+        "to": {
+          "id": 7,
+          "name": "Bến xe miền Tây",
+          "address": "395 Kinh Đ. Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh",
+          "image": "https://storage.googleapis.com/fe-production/images/bx-my-dinh.jpg",
+          "createdAt": "2022-08-17T02:03:16.000Z",
+          "updatedAt": "2022-08-17T02:21:41.000Z",
+          "provinceId": 49
+        }
+      },
+      "vehicleBusType": {
+        "id": 3,
+        "name": "giường nằm",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+      }
+    }
+  },
+  {
+    "id": 9,
+    "name": "C19",
+    "createdAt": "2022-08-17T02:03:16.000Z",
+    "updatedAt": "2022-08-17T02:21:41.000Z",
+    "vehicledId": 3,
+    "seatStatusId": 2,
+    "seatStatus": {
+      "id": 2,
+      "name": "BOOKED",
+      "createdAt": "2022-08-17T02:03:16.000Z",
+      "updatedAt": "2022-08-17T02:21:41.000Z"
+    },
+    "seatVehicle": {
+      "id": 3,
+      "name": "60-C1 0012",
+      "image": "https://storage.googleapis.com/vex-config/cms-tool/post/images/163/img_card.png",
+      "numberFloor": 2,
+      "numberSeat": 24,
+      "promo": "{\"percent\":0.3,\"max\":250}",
+      "point": "{\"pickup\":[1,2,3,4,5,6],\"dropoff\":[7,8,9,10,11,12,13,14,15,16,17,18,19,20]}",
+      "createdAt": "2022-08-17T02:03:16.000Z",
+      "updatedAt": "2022-08-17T02:21:41.000Z",
+      "busTypeId": 2,
+      "tripId": 6,
+      "passengerCarCompaniesId": 3,
+      "vehiclePassengerCarCompanies": {
+        "id": 3,
+        "name": "Xe Văn Minh",
+        "address": "10/2, District 12",
+        "content": "<div className='text-alibus>Hello</div>",
+        "review": "{\"safety\":6.5,\"clear info\":7,\"facilities\":5,\"service quality\":8,\"employee\":5.5}",
+        "comments": 234,
+        "image": "https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg",
+        "description": "Note that in the previous example, we have created objects inside another class and accessed the members from that class.",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+      },
+      "vehicleTrip": {
+        "id": 6,
+        "startTime": 90,
+        "price": 450000,
+        "image": "https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg",
+        "tripAt": "2022-08-17T02:03:16.000Z",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z",
+        "fromStation": 3,
+        "toStation": 4,
+        "from": {
+          "id": 3,
+          "name": "Bến xe Nước Ngầm",
+          "address": "395 Kinh Đ. Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh",
+          "image": "https://storage.googleapis.com/fe-production/images/bx-nuoc-ngam.jpg",
+          "createdAt": "2022-08-17T02:03:16.000Z",
+          "updatedAt": "2022-08-17T02:21:41.000Z",
+          "provinceId": 49
+        },
+        "to": {
+          "id": 4,
+          "name": "Bến xe Mỹ Đình",
+          "address": "395 Kinh Đ. Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh",
+          "image": "https://storage.googleapis.com/fe-production/images/bx-my-dinh.jpg",
+          "createdAt": "2022-08-17T02:03:16.000Z",
+          "updatedAt": "2022-08-17T02:21:41.000Z",
+          "provinceId": 49
+        }
+      },
+      "vehicleBusType": {
+        "id": 2,
+        "name": "ghế nằm",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+      }
+    }
+  },
+  {
+    "id": 10,
+    "name": "C10",
+    "createdAt": "2022-08-17T02:03:16.000Z",
+    "updatedAt": "2022-08-17T02:21:41.000Z",
+    "vehicledId": 4,
+    "seatStatusId": 2,
+    "seatStatus": {
+      "id": 2,
+      "name": "BOOKED",
+      "createdAt": "2022-08-17T02:03:16.000Z",
+      "updatedAt": "2022-08-17T02:21:41.000Z"
+    },
+    "seatVehicle": {
+      "id": 4,
+      "name": "61-C1 0012",
+      "image": "https://storage.googleapis.com/vex-config/cms-tool/post/images/163/img_card.png",
+      "numberFloor": 2,
+      "numberSeat": 24,
+      "promo": "{\"percent\":0.5,\"max\":50}",
+      "point": "{\"pickup\":[1,2,3,4,5,6],\"dropoff\":[7,8,9,10,11,12,13,14,15,16,17,18,19,20]}",
+      "createdAt": "2022-08-17T02:03:16.000Z",
+      "updatedAt": "2022-08-17T02:21:41.000Z",
+      "busTypeId": 2,
+      "tripId": 1,
+      "passengerCarCompaniesId": 3,
+      "vehiclePassengerCarCompanies": {
+        "id": 3,
+        "name": "Xe Văn Minh",
+        "address": "10/2, District 12",
+        "content": "<div className='text-alibus>Hello</div>",
+        "review": "{\"safety\":6.5,\"clear info\":7,\"facilities\":5,\"service quality\":8,\"employee\":5.5}",
+        "comments": 234,
+        "image": "https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg",
+        "description": "Note that in the previous example, we have created objects inside another class and accessed the members from that class.",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+      },
+      "vehicleTrip": {
+        "id": 1,
+        "startTime": 120,
+        "price": 450000,
+        "image": "https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg",
+        "tripAt": "2022-09-29T13:03:16.000Z",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z",
+        "fromStation": 3,
+        "toStation": 7,
+        "from": {
+          "id": 3,
+          "name": "Bến xe Nước Ngầm",
+          "address": "395 Kinh Đ. Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh",
+          "image": "https://storage.googleapis.com/fe-production/images/bx-nuoc-ngam.jpg",
+          "createdAt": "2022-08-17T02:03:16.000Z",
+          "updatedAt": "2022-08-17T02:21:41.000Z",
+          "provinceId": 49
+        },
+        "to": {
+          "id": 7,
+          "name": "Bến xe miền Tây",
+          "address": "395 Kinh Đ. Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh",
+          "image": "https://storage.googleapis.com/fe-production/images/bx-my-dinh.jpg",
+          "createdAt": "2022-08-17T02:03:16.000Z",
+          "updatedAt": "2022-08-17T02:21:41.000Z",
+          "provinceId": 49
+        }
+      },
+      "vehicleBusType": {
+        "id": 2,
+        "name": "ghế nằm",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+      }
+    }
+  },
+  {
+    "id": 11,
+    "name": "C11",
+    "createdAt": "2022-08-17T02:03:16.000Z",
+    "updatedAt": "2022-08-17T02:21:41.000Z",
+    "vehicledId": 5,
+    "seatStatusId": 1,
+    "seatStatus": {
+      "id": 1,
+      "name": "AVAILABLE",
+      "createdAt": "2022-08-17T02:03:16.000Z",
+      "updatedAt": "2022-08-17T02:21:41.000Z"
+    },
+    "seatVehicle": {
+      "id": 5,
+      "name": "61-C1 0014",
+      "image": "https://storage.googleapis.com/vex-config/cms-tool/post/images/163/img_card.png",
+      "numberFloor": 2,
+      "numberSeat": 24,
+      "promo": "{\"percent\":0.5,\"max\":100}",
+      "point": "{\"pickup\":[1,2,3,4,5,6],\"dropoff\":[7,8,9,10,11,12,13,14,15,16,17,18,19,20]}",
+      "createdAt": "2022-08-17T02:03:16.000Z",
+      "updatedAt": "2022-08-17T02:21:41.000Z",
+      "busTypeId": 3,
+      "tripId": 1,
+      "passengerCarCompaniesId": 3,
+      "vehiclePassengerCarCompanies": {
+        "id": 3,
+        "name": "Xe Văn Minh",
+        "address": "10/2, District 12",
+        "content": "<div className='text-alibus>Hello</div>",
+        "review": "{\"safety\":6.5,\"clear info\":7,\"facilities\":5,\"service quality\":8,\"employee\":5.5}",
+        "comments": 234,
+        "image": "https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg",
+        "description": "Note that in the previous example, we have created objects inside another class and accessed the members from that class.",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+      },
+      "vehicleTrip": {
+        "id": 1,
+        "startTime": 120,
+        "price": 450000,
+        "image": "https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg",
+        "tripAt": "2022-09-29T13:03:16.000Z",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z",
+        "fromStation": 3,
+        "toStation": 7,
+        "from": {
+          "id": 3,
+          "name": "Bến xe Nước Ngầm",
+          "address": "395 Kinh Đ. Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh",
+          "image": "https://storage.googleapis.com/fe-production/images/bx-nuoc-ngam.jpg",
+          "createdAt": "2022-08-17T02:03:16.000Z",
+          "updatedAt": "2022-08-17T02:21:41.000Z",
+          "provinceId": 49
+        },
+        "to": {
+          "id": 7,
+          "name": "Bến xe miền Tây",
+          "address": "395 Kinh Đ. Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh",
+          "image": "https://storage.googleapis.com/fe-production/images/bx-my-dinh.jpg",
+          "createdAt": "2022-08-17T02:03:16.000Z",
+          "updatedAt": "2022-08-17T02:21:41.000Z",
+          "provinceId": 49
+        }
+      },
+      "vehicleBusType": {
+        "id": 3,
+        "name": "giường nằm",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+      }
+    }
+  },
+  {
+    "id": 12,
+    "name": "B7",
+    "createdAt": "2022-08-17T02:03:16.000Z",
+    "updatedAt": "2022-08-17T02:21:41.000Z",
+    "vehicledId": 1,
+    "seatStatusId": 1,
+    "seatStatus": {
+      "id": 1,
+      "name": "AVAILABLE",
+      "createdAt": "2022-08-17T02:03:16.000Z",
+      "updatedAt": "2022-08-17T02:21:41.000Z"
+    },
+    "seatVehicle": {
+      "id": 1,
+      "name": "52-C1 0012",
+      "image": "https://storage.googleapis.com/vex-config/cms-tool/post/images/163/img_card.png",
+      "numberFloor": 2,
+      "numberSeat": 16,
+      "promo": "{\"percent\":0.2,\"max\":250}",
+      "point": "{\"pickup\":[1,2,3,4,5,6],\"dropoff\":[7,8,9,10,11,12,13,14,15,16,17,18,19,20]}",
+      "createdAt": "2022-08-17T02:03:16.000Z",
+      "updatedAt": "2022-08-17T02:21:41.000Z",
+      "busTypeId": 3,
+      "tripId": 1,
+      "passengerCarCompaniesId": 1,
+      "vehiclePassengerCarCompanies": {
+        "id": 1,
+        "name": "Xe Sao Việt",
+        "address": "10/2, District 12",
+        "content": "<div className=\"text-green-400\">Test 1</div>",
+        "review": "{\"safety\":6.5,\"clear info\":7,\"facilities\":5,\"service quality\":8,\"employee\":5.5}",
+        "comments": 234,
+        "image": "https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg",
+        "description": "Note that in the previous example, we have created objects inside another class and accessed the members from that class.",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+      },
+      "vehicleTrip": {
+        "id": 1,
+        "startTime": 120,
+        "price": 450000,
+        "image": "https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg",
+        "tripAt": "2022-09-29T13:03:16.000Z",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z",
+        "fromStation": 3,
+        "toStation": 7,
+        "from": {
+          "id": 3,
+          "name": "Bến xe Nước Ngầm",
+          "address": "395 Kinh Đ. Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh",
+          "image": "https://storage.googleapis.com/fe-production/images/bx-nuoc-ngam.jpg",
+          "createdAt": "2022-08-17T02:03:16.000Z",
+          "updatedAt": "2022-08-17T02:21:41.000Z",
+          "provinceId": 49
+        },
+        "to": {
+          "id": 7,
+          "name": "Bến xe miền Tây",
+          "address": "395 Kinh Đ. Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh",
+          "image": "https://storage.googleapis.com/fe-production/images/bx-my-dinh.jpg",
+          "createdAt": "2022-08-17T02:03:16.000Z",
+          "updatedAt": "2022-08-17T02:21:41.000Z",
+          "provinceId": 49
+        }
+      },
+      "vehicleBusType": {
+        "id": 3,
+        "name": "giường nằm",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+      }
+    }
+  },
+  {
+    "id": 13,
+    "name": "B6",
+    "createdAt": "2022-08-17T02:03:16.000Z",
+    "updatedAt": "2022-08-17T02:21:41.000Z",
+    "vehicledId": 1,
+    "seatStatusId": 1,
+    "seatStatus": {
+      "id": 1,
+      "name": "AVAILABLE",
+      "createdAt": "2022-08-17T02:03:16.000Z",
+      "updatedAt": "2022-08-17T02:21:41.000Z"
+    },
+    "seatVehicle": {
+      "id": 1,
+      "name": "52-C1 0012",
+      "image": "https://storage.googleapis.com/vex-config/cms-tool/post/images/163/img_card.png",
+      "numberFloor": 2,
+      "numberSeat": 16,
+      "promo": "{\"percent\":0.2,\"max\":250}",
+      "point": "{\"pickup\":[1,2,3,4,5,6],\"dropoff\":[7,8,9,10,11,12,13,14,15,16,17,18,19,20]}",
+      "createdAt": "2022-08-17T02:03:16.000Z",
+      "updatedAt": "2022-08-17T02:21:41.000Z",
+      "busTypeId": 3,
+      "tripId": 1,
+      "passengerCarCompaniesId": 1,
+      "vehiclePassengerCarCompanies": {
+        "id": 1,
+        "name": "Xe Sao Việt",
+        "address": "10/2, District 12",
+        "content": "<div className=\"text-green-400\">Test 1</div>",
+        "review": "{\"safety\":6.5,\"clear info\":7,\"facilities\":5,\"service quality\":8,\"employee\":5.5}",
+        "comments": 234,
+        "image": "https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg",
+        "description": "Note that in the previous example, we have created objects inside another class and accessed the members from that class.",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+      },
+      "vehicleTrip": {
+        "id": 1,
+        "startTime": 120,
+        "price": 450000,
+        "image": "https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg",
+        "tripAt": "2022-09-29T13:03:16.000Z",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z",
+        "fromStation": 3,
+        "toStation": 7,
+        "from": {
+          "id": 3,
+          "name": "Bến xe Nước Ngầm",
+          "address": "395 Kinh Đ. Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh",
+          "image": "https://storage.googleapis.com/fe-production/images/bx-nuoc-ngam.jpg",
+          "createdAt": "2022-08-17T02:03:16.000Z",
+          "updatedAt": "2022-08-17T02:21:41.000Z",
+          "provinceId": 49
+        },
+        "to": {
+          "id": 7,
+          "name": "Bến xe miền Tây",
+          "address": "395 Kinh Đ. Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh",
+          "image": "https://storage.googleapis.com/fe-production/images/bx-my-dinh.jpg",
+          "createdAt": "2022-08-17T02:03:16.000Z",
+          "updatedAt": "2022-08-17T02:21:41.000Z",
+          "provinceId": 49
+        }
+      },
+      "vehicleBusType": {
+        "id": 3,
+        "name": "giường nằm",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+      }
+    }
+  },
+  {
+    "id": 14,
+    "name": "B5",
+    "createdAt": "2022-08-17T02:03:16.000Z",
+    "updatedAt": "2022-08-17T02:21:41.000Z",
+    "vehicledId": 1,
+    "seatStatusId": 1,
+    "seatStatus": {
+      "id": 1,
+      "name": "AVAILABLE",
+      "createdAt": "2022-08-17T02:03:16.000Z",
+      "updatedAt": "2022-08-17T02:21:41.000Z"
+    },
+    "seatVehicle": {
+      "id": 1,
+      "name": "52-C1 0012",
+      "image": "https://storage.googleapis.com/vex-config/cms-tool/post/images/163/img_card.png",
+      "numberFloor": 2,
+      "numberSeat": 16,
+      "promo": "{\"percent\":0.2,\"max\":250}",
+      "point": "{\"pickup\":[1,2,3,4,5,6],\"dropoff\":[7,8,9,10,11,12,13,14,15,16,17,18,19,20]}",
+      "createdAt": "2022-08-17T02:03:16.000Z",
+      "updatedAt": "2022-08-17T02:21:41.000Z",
+      "busTypeId": 3,
+      "tripId": 1,
+      "passengerCarCompaniesId": 1,
+      "vehiclePassengerCarCompanies": {
+        "id": 1,
+        "name": "Xe Sao Việt",
+        "address": "10/2, District 12",
+        "content": "<div className=\"text-green-400\">Test 1</div>",
+        "review": "{\"safety\":6.5,\"clear info\":7,\"facilities\":5,\"service quality\":8,\"employee\":5.5}",
+        "comments": 234,
+        "image": "https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg",
+        "description": "Note that in the previous example, we have created objects inside another class and accessed the members from that class.",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+      },
+      "vehicleTrip": {
+        "id": 1,
+        "startTime": 120,
+        "price": 450000,
+        "image": "https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg",
+        "tripAt": "2022-09-29T13:03:16.000Z",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z",
+        "fromStation": 3,
+        "toStation": 7,
+        "from": {
+          "id": 3,
+          "name": "Bến xe Nước Ngầm",
+          "address": "395 Kinh Đ. Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh",
+          "image": "https://storage.googleapis.com/fe-production/images/bx-nuoc-ngam.jpg",
+          "createdAt": "2022-08-17T02:03:16.000Z",
+          "updatedAt": "2022-08-17T02:21:41.000Z",
+          "provinceId": 49
+        },
+        "to": {
+          "id": 7,
+          "name": "Bến xe miền Tây",
+          "address": "395 Kinh Đ. Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh",
+          "image": "https://storage.googleapis.com/fe-production/images/bx-my-dinh.jpg",
+          "createdAt": "2022-08-17T02:03:16.000Z",
+          "updatedAt": "2022-08-17T02:21:41.000Z",
+          "provinceId": 49
+        }
+      },
+      "vehicleBusType": {
+        "id": 3,
+        "name": "giường nằm",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+      }
+    }
+  },
+  {
+    "id": 15,
+    "name": "B4",
+    "createdAt": "2022-08-17T02:03:16.000Z",
+    "updatedAt": "2022-08-17T02:21:41.000Z",
+    "vehicledId": 1,
+    "seatStatusId": 1,
+    "seatStatus": {
+      "id": 1,
+      "name": "AVAILABLE",
+      "createdAt": "2022-08-17T02:03:16.000Z",
+      "updatedAt": "2022-08-17T02:21:41.000Z"
+    },
+    "seatVehicle": {
+      "id": 1,
+      "name": "52-C1 0012",
+      "image": "https://storage.googleapis.com/vex-config/cms-tool/post/images/163/img_card.png",
+      "numberFloor": 2,
+      "numberSeat": 16,
+      "promo": "{\"percent\":0.2,\"max\":250}",
+      "point": "{\"pickup\":[1,2,3,4,5,6],\"dropoff\":[7,8,9,10,11,12,13,14,15,16,17,18,19,20]}",
+      "createdAt": "2022-08-17T02:03:16.000Z",
+      "updatedAt": "2022-08-17T02:21:41.000Z",
+      "busTypeId": 3,
+      "tripId": 1,
+      "passengerCarCompaniesId": 1,
+      "vehiclePassengerCarCompanies": {
+        "id": 1,
+        "name": "Xe Sao Việt",
+        "address": "10/2, District 12",
+        "content": "<div className=\"text-green-400\">Test 1</div>",
+        "review": "{\"safety\":6.5,\"clear info\":7,\"facilities\":5,\"service quality\":8,\"employee\":5.5}",
+        "comments": 234,
+        "image": "https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg",
+        "description": "Note that in the previous example, we have created objects inside another class and accessed the members from that class.",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+      },
+      "vehicleTrip": {
+        "id": 1,
+        "startTime": 120,
+        "price": 450000,
+        "image": "https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg",
+        "tripAt": "2022-09-29T13:03:16.000Z",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z",
+        "fromStation": 3,
+        "toStation": 7,
+        "from": {
+          "id": 3,
+          "name": "Bến xe Nước Ngầm",
+          "address": "395 Kinh Đ. Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh",
+          "image": "https://storage.googleapis.com/fe-production/images/bx-nuoc-ngam.jpg",
+          "createdAt": "2022-08-17T02:03:16.000Z",
+          "updatedAt": "2022-08-17T02:21:41.000Z",
+          "provinceId": 49
+        },
+        "to": {
+          "id": 7,
+          "name": "Bến xe miền Tây",
+          "address": "395 Kinh Đ. Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh",
+          "image": "https://storage.googleapis.com/fe-production/images/bx-my-dinh.jpg",
+          "createdAt": "2022-08-17T02:03:16.000Z",
+          "updatedAt": "2022-08-17T02:21:41.000Z",
+          "provinceId": 49
+        }
+      },
+      "vehicleBusType": {
+        "id": 3,
+        "name": "giường nằm",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+      }
+    }
+  },
+  {
+    "id": 16,
+    "name": "B3",
+    "createdAt": "2022-08-17T02:03:16.000Z",
+    "updatedAt": "2022-08-17T02:21:41.000Z",
+    "vehicledId": 1,
+    "seatStatusId": 2,
+    "seatStatus": {
+      "id": 2,
+      "name": "BOOKED",
+      "createdAt": "2022-08-17T02:03:16.000Z",
+      "updatedAt": "2022-08-17T02:21:41.000Z"
+    },
+    "seatVehicle": {
+      "id": 1,
+      "name": "52-C1 0012",
+      "image": "https://storage.googleapis.com/vex-config/cms-tool/post/images/163/img_card.png",
+      "numberFloor": 2,
+      "numberSeat": 16,
+      "promo": "{\"percent\":0.2,\"max\":250}",
+      "point": "{\"pickup\":[1,2,3,4,5,6],\"dropoff\":[7,8,9,10,11,12,13,14,15,16,17,18,19,20]}",
+      "createdAt": "2022-08-17T02:03:16.000Z",
+      "updatedAt": "2022-08-17T02:21:41.000Z",
+      "busTypeId": 3,
+      "tripId": 1,
+      "passengerCarCompaniesId": 1,
+      "vehiclePassengerCarCompanies": {
+        "id": 1,
+        "name": "Xe Sao Việt",
+        "address": "10/2, District 12",
+        "content": "<div className=\"text-green-400\">Test 1</div>",
+        "review": "{\"safety\":6.5,\"clear info\":7,\"facilities\":5,\"service quality\":8,\"employee\":5.5}",
+        "comments": 234,
+        "image": "https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg",
+        "description": "Note that in the previous example, we have created objects inside another class and accessed the members from that class.",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+      },
+      "vehicleTrip": {
+        "id": 1,
+        "startTime": 120,
+        "price": 450000,
+        "image": "https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg",
+        "tripAt": "2022-09-29T13:03:16.000Z",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z",
+        "fromStation": 3,
+        "toStation": 7,
+        "from": {
+          "id": 3,
+          "name": "Bến xe Nước Ngầm",
+          "address": "395 Kinh Đ. Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh",
+          "image": "https://storage.googleapis.com/fe-production/images/bx-nuoc-ngam.jpg",
+          "createdAt": "2022-08-17T02:03:16.000Z",
+          "updatedAt": "2022-08-17T02:21:41.000Z",
+          "provinceId": 49
+        },
+        "to": {
+          "id": 7,
+          "name": "Bến xe miền Tây",
+          "address": "395 Kinh Đ. Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh",
+          "image": "https://storage.googleapis.com/fe-production/images/bx-my-dinh.jpg",
+          "createdAt": "2022-08-17T02:03:16.000Z",
+          "updatedAt": "2022-08-17T02:21:41.000Z",
+          "provinceId": 49
+        }
+      },
+      "vehicleBusType": {
+        "id": 3,
+        "name": "giường nằm",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+      }
+    }
+  },
+  {
+    "id": 17,
+    "name": "B2",
+    "createdAt": "2022-08-17T02:03:16.000Z",
+    "updatedAt": "2022-08-17T02:21:41.000Z",
+    "vehicledId": 1,
+    "seatStatusId": 1,
+    "seatStatus": {
+      "id": 1,
+      "name": "AVAILABLE",
+      "createdAt": "2022-08-17T02:03:16.000Z",
+      "updatedAt": "2022-08-17T02:21:41.000Z"
+    },
+    "seatVehicle": {
+      "id": 1,
+      "name": "52-C1 0012",
+      "image": "https://storage.googleapis.com/vex-config/cms-tool/post/images/163/img_card.png",
+      "numberFloor": 2,
+      "numberSeat": 16,
+      "promo": "{\"percent\":0.2,\"max\":250}",
+      "point": "{\"pickup\":[1,2,3,4,5,6],\"dropoff\":[7,8,9,10,11,12,13,14,15,16,17,18,19,20]}",
+      "createdAt": "2022-08-17T02:03:16.000Z",
+      "updatedAt": "2022-08-17T02:21:41.000Z",
+      "busTypeId": 3,
+      "tripId": 1,
+      "passengerCarCompaniesId": 1,
+      "vehiclePassengerCarCompanies": {
+        "id": 1,
+        "name": "Xe Sao Việt",
+        "address": "10/2, District 12",
+        "content": "<div className=\"text-green-400\">Test 1</div>",
+        "review": "{\"safety\":6.5,\"clear info\":7,\"facilities\":5,\"service quality\":8,\"employee\":5.5}",
+        "comments": 234,
+        "image": "https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg",
+        "description": "Note that in the previous example, we have created objects inside another class and accessed the members from that class.",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+      },
+      "vehicleTrip": {
+        "id": 1,
+        "startTime": 120,
+        "price": 450000,
+        "image": "https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg",
+        "tripAt": "2022-09-29T13:03:16.000Z",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z",
+        "fromStation": 3,
+        "toStation": 7,
+        "from": {
+          "id": 3,
+          "name": "Bến xe Nước Ngầm",
+          "address": "395 Kinh Đ. Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh",
+          "image": "https://storage.googleapis.com/fe-production/images/bx-nuoc-ngam.jpg",
+          "createdAt": "2022-08-17T02:03:16.000Z",
+          "updatedAt": "2022-08-17T02:21:41.000Z",
+          "provinceId": 49
+        },
+        "to": {
+          "id": 7,
+          "name": "Bến xe miền Tây",
+          "address": "395 Kinh Đ. Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh",
+          "image": "https://storage.googleapis.com/fe-production/images/bx-my-dinh.jpg",
+          "createdAt": "2022-08-17T02:03:16.000Z",
+          "updatedAt": "2022-08-17T02:21:41.000Z",
+          "provinceId": 49
+        }
+      },
+      "vehicleBusType": {
+        "id": 3,
+        "name": "giường nằm",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+      }
+    }
+  },
+  {
+    "id": 18,
+    "name": "B1",
+    "createdAt": "2022-08-17T02:03:16.000Z",
+    "updatedAt": "2022-08-17T02:21:41.000Z",
+    "vehicledId": 1,
+    "seatStatusId": 1,
+    "seatStatus": {
+      "id": 1,
+      "name": "AVAILABLE",
+      "createdAt": "2022-08-17T02:03:16.000Z",
+      "updatedAt": "2022-08-17T02:21:41.000Z"
+    },
+    "seatVehicle": {
+      "id": 1,
+      "name": "52-C1 0012",
+      "image": "https://storage.googleapis.com/vex-config/cms-tool/post/images/163/img_card.png",
+      "numberFloor": 2,
+      "numberSeat": 16,
+      "promo": "{\"percent\":0.2,\"max\":250}",
+      "point": "{\"pickup\":[1,2,3,4,5,6],\"dropoff\":[7,8,9,10,11,12,13,14,15,16,17,18,19,20]}",
+      "createdAt": "2022-08-17T02:03:16.000Z",
+      "updatedAt": "2022-08-17T02:21:41.000Z",
+      "busTypeId": 3,
+      "tripId": 1,
+      "passengerCarCompaniesId": 1,
+      "vehiclePassengerCarCompanies": {
+        "id": 1,
+        "name": "Xe Sao Việt",
+        "address": "10/2, District 12",
+        "content": "<div className=\"text-green-400\">Test 1</div>",
+        "review": "{\"safety\":6.5,\"clear info\":7,\"facilities\":5,\"service quality\":8,\"employee\":5.5}",
+        "comments": 234,
+        "image": "https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg",
+        "description": "Note that in the previous example, we have created objects inside another class and accessed the members from that class.",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+      },
+      "vehicleTrip": {
+        "id": 1,
+        "startTime": 120,
+        "price": 450000,
+        "image": "https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg",
+        "tripAt": "2022-09-29T13:03:16.000Z",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z",
+        "fromStation": 3,
+        "toStation": 7,
+        "from": {
+          "id": 3,
+          "name": "Bến xe Nước Ngầm",
+          "address": "395 Kinh Đ. Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh",
+          "image": "https://storage.googleapis.com/fe-production/images/bx-nuoc-ngam.jpg",
+          "createdAt": "2022-08-17T02:03:16.000Z",
+          "updatedAt": "2022-08-17T02:21:41.000Z",
+          "provinceId": 49
+        },
+        "to": {
+          "id": 7,
+          "name": "Bến xe miền Tây",
+          "address": "395 Kinh Đ. Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh",
+          "image": "https://storage.googleapis.com/fe-production/images/bx-my-dinh.jpg",
+          "createdAt": "2022-08-17T02:03:16.000Z",
+          "updatedAt": "2022-08-17T02:21:41.000Z",
+          "provinceId": 49
+        }
+      },
+      "vehicleBusType": {
+        "id": 3,
+        "name": "giường nằm",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+      }
+    }
+  },
+  {
+    "id": 19,
+    "name": "A1",
+    "createdAt": "2022-08-17T02:03:16.000Z",
+    "updatedAt": "2022-08-17T02:21:41.000Z",
+    "vehicledId": 1,
+    "seatStatusId": 1,
+    "seatStatus": {
+      "id": 1,
+      "name": "AVAILABLE",
+      "createdAt": "2022-08-17T02:03:16.000Z",
+      "updatedAt": "2022-08-17T02:21:41.000Z"
+    },
+    "seatVehicle": {
+      "id": 1,
+      "name": "52-C1 0012",
+      "image": "https://storage.googleapis.com/vex-config/cms-tool/post/images/163/img_card.png",
+      "numberFloor": 2,
+      "numberSeat": 16,
+      "promo": "{\"percent\":0.2,\"max\":250}",
+      "point": "{\"pickup\":[1,2,3,4,5,6],\"dropoff\":[7,8,9,10,11,12,13,14,15,16,17,18,19,20]}",
+      "createdAt": "2022-08-17T02:03:16.000Z",
+      "updatedAt": "2022-08-17T02:21:41.000Z",
+      "busTypeId": 3,
+      "tripId": 1,
+      "passengerCarCompaniesId": 1,
+      "vehiclePassengerCarCompanies": {
+        "id": 1,
+        "name": "Xe Sao Việt",
+        "address": "10/2, District 12",
+        "content": "<div className=\"text-green-400\">Test 1</div>",
+        "review": "{\"safety\":6.5,\"clear info\":7,\"facilities\":5,\"service quality\":8,\"employee\":5.5}",
+        "comments": 234,
+        "image": "https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg",
+        "description": "Note that in the previous example, we have created objects inside another class and accessed the members from that class.",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+      },
+      "vehicleTrip": {
+        "id": 1,
+        "startTime": 120,
+        "price": 450000,
+        "image": "https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg",
+        "tripAt": "2022-09-29T13:03:16.000Z",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z",
+        "fromStation": 3,
+        "toStation": 7,
+        "from": {
+          "id": 3,
+          "name": "Bến xe Nước Ngầm",
+          "address": "395 Kinh Đ. Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh",
+          "image": "https://storage.googleapis.com/fe-production/images/bx-nuoc-ngam.jpg",
+          "createdAt": "2022-08-17T02:03:16.000Z",
+          "updatedAt": "2022-08-17T02:21:41.000Z",
+          "provinceId": 49
+        },
+        "to": {
+          "id": 7,
+          "name": "Bến xe miền Tây",
+          "address": "395 Kinh Đ. Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh",
+          "image": "https://storage.googleapis.com/fe-production/images/bx-my-dinh.jpg",
+          "createdAt": "2022-08-17T02:03:16.000Z",
+          "updatedAt": "2022-08-17T02:21:41.000Z",
+          "provinceId": 49
+        }
+      },
+      "vehicleBusType": {
+        "id": 3,
+        "name": "giường nằm",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+      }
+    }
+  },
+  {
+    "id": 20,
+    "name": "A2",
+    "createdAt": "2022-08-17T02:03:16.000Z",
+    "updatedAt": "2022-08-17T02:21:41.000Z",
+    "vehicledId": 1,
+    "seatStatusId": 2,
+    "seatStatus": {
+      "id": 2,
+      "name": "BOOKED",
+      "createdAt": "2022-08-17T02:03:16.000Z",
+      "updatedAt": "2022-08-17T02:21:41.000Z"
+    },
+    "seatVehicle": {
+      "id": 1,
+      "name": "52-C1 0012",
+      "image": "https://storage.googleapis.com/vex-config/cms-tool/post/images/163/img_card.png",
+      "numberFloor": 2,
+      "numberSeat": 16,
+      "promo": "{\"percent\":0.2,\"max\":250}",
+      "point": "{\"pickup\":[1,2,3,4,5,6],\"dropoff\":[7,8,9,10,11,12,13,14,15,16,17,18,19,20]}",
+      "createdAt": "2022-08-17T02:03:16.000Z",
+      "updatedAt": "2022-08-17T02:21:41.000Z",
+      "busTypeId": 3,
+      "tripId": 1,
+      "passengerCarCompaniesId": 1,
+      "vehiclePassengerCarCompanies": {
+        "id": 1,
+        "name": "Xe Sao Việt",
+        "address": "10/2, District 12",
+        "content": "<div className=\"text-green-400\">Test 1</div>",
+        "review": "{\"safety\":6.5,\"clear info\":7,\"facilities\":5,\"service quality\":8,\"employee\":5.5}",
+        "comments": 234,
+        "image": "https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg",
+        "description": "Note that in the previous example, we have created objects inside another class and accessed the members from that class.",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+      },
+      "vehicleTrip": {
+        "id": 1,
+        "startTime": 120,
+        "price": 450000,
+        "image": "https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg",
+        "tripAt": "2022-09-29T13:03:16.000Z",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z",
+        "fromStation": 3,
+        "toStation": 7,
+        "from": {
+          "id": 3,
+          "name": "Bến xe Nước Ngầm",
+          "address": "395 Kinh Đ. Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh",
+          "image": "https://storage.googleapis.com/fe-production/images/bx-nuoc-ngam.jpg",
+          "createdAt": "2022-08-17T02:03:16.000Z",
+          "updatedAt": "2022-08-17T02:21:41.000Z",
+          "provinceId": 49
+        },
+        "to": {
+          "id": 7,
+          "name": "Bến xe miền Tây",
+          "address": "395 Kinh Đ. Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh",
+          "image": "https://storage.googleapis.com/fe-production/images/bx-my-dinh.jpg",
+          "createdAt": "2022-08-17T02:03:16.000Z",
+          "updatedAt": "2022-08-17T02:21:41.000Z",
+          "provinceId": 49
+        }
+      },
+      "vehicleBusType": {
+        "id": 3,
+        "name": "giường nằm",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+      }
+    }
+  },
+  {
+    "id": 21,
+    "name": "A3",
+    "createdAt": "2022-08-17T02:03:16.000Z",
+    "updatedAt": "2022-10-18T04:24:16.000Z",
+    "vehicledId": 1,
+    "seatStatusId": 2,
+    "seatStatus": {
+      "id": 2,
+      "name": "BOOKED",
+      "createdAt": "2022-08-17T02:03:16.000Z",
+      "updatedAt": "2022-08-17T02:21:41.000Z"
+    },
+    "seatVehicle": {
+      "id": 1,
+      "name": "52-C1 0012",
+      "image": "https://storage.googleapis.com/vex-config/cms-tool/post/images/163/img_card.png",
+      "numberFloor": 2,
+      "numberSeat": 16,
+      "promo": "{\"percent\":0.2,\"max\":250}",
+      "point": "{\"pickup\":[1,2,3,4,5,6],\"dropoff\":[7,8,9,10,11,12,13,14,15,16,17,18,19,20]}",
+      "createdAt": "2022-08-17T02:03:16.000Z",
+      "updatedAt": "2022-08-17T02:21:41.000Z",
+      "busTypeId": 3,
+      "tripId": 1,
+      "passengerCarCompaniesId": 1,
+      "vehiclePassengerCarCompanies": {
+        "id": 1,
+        "name": "Xe Sao Việt",
+        "address": "10/2, District 12",
+        "content": "<div className=\"text-green-400\">Test 1</div>",
+        "review": "{\"safety\":6.5,\"clear info\":7,\"facilities\":5,\"service quality\":8,\"employee\":5.5}",
+        "comments": 234,
+        "image": "https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg",
+        "description": "Note that in the previous example, we have created objects inside another class and accessed the members from that class.",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+      },
+      "vehicleTrip": {
+        "id": 1,
+        "startTime": 120,
+        "price": 450000,
+        "image": "https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg",
+        "tripAt": "2022-09-29T13:03:16.000Z",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z",
+        "fromStation": 3,
+        "toStation": 7,
+        "from": {
+          "id": 3,
+          "name": "Bến xe Nước Ngầm",
+          "address": "395 Kinh Đ. Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh",
+          "image": "https://storage.googleapis.com/fe-production/images/bx-nuoc-ngam.jpg",
+          "createdAt": "2022-08-17T02:03:16.000Z",
+          "updatedAt": "2022-08-17T02:21:41.000Z",
+          "provinceId": 49
+        },
+        "to": {
+          "id": 7,
+          "name": "Bến xe miền Tây",
+          "address": "395 Kinh Đ. Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh",
+          "image": "https://storage.googleapis.com/fe-production/images/bx-my-dinh.jpg",
+          "createdAt": "2022-08-17T02:03:16.000Z",
+          "updatedAt": "2022-08-17T02:21:41.000Z",
+          "provinceId": 49
+        }
+      },
+      "vehicleBusType": {
+        "id": 3,
+        "name": "giường nằm",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+      }
+    }
+  },
+  {
+    "id": 22,
+    "name": "A4",
+    "createdAt": "2022-08-17T02:03:16.000Z",
+    "updatedAt": "2022-08-17T02:21:41.000Z",
+    "vehicledId": 1,
+    "seatStatusId": 1,
+    "seatStatus": {
+      "id": 1,
+      "name": "AVAILABLE",
+      "createdAt": "2022-08-17T02:03:16.000Z",
+      "updatedAt": "2022-08-17T02:21:41.000Z"
+    },
+    "seatVehicle": {
+      "id": 1,
+      "name": "52-C1 0012",
+      "image": "https://storage.googleapis.com/vex-config/cms-tool/post/images/163/img_card.png",
+      "numberFloor": 2,
+      "numberSeat": 16,
+      "promo": "{\"percent\":0.2,\"max\":250}",
+      "point": "{\"pickup\":[1,2,3,4,5,6],\"dropoff\":[7,8,9,10,11,12,13,14,15,16,17,18,19,20]}",
+      "createdAt": "2022-08-17T02:03:16.000Z",
+      "updatedAt": "2022-08-17T02:21:41.000Z",
+      "busTypeId": 3,
+      "tripId": 1,
+      "passengerCarCompaniesId": 1,
+      "vehiclePassengerCarCompanies": {
+        "id": 1,
+        "name": "Xe Sao Việt",
+        "address": "10/2, District 12",
+        "content": "<div className=\"text-green-400\">Test 1</div>",
+        "review": "{\"safety\":6.5,\"clear info\":7,\"facilities\":5,\"service quality\":8,\"employee\":5.5}",
+        "comments": 234,
+        "image": "https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg",
+        "description": "Note that in the previous example, we have created objects inside another class and accessed the members from that class.",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+      },
+      "vehicleTrip": {
+        "id": 1,
+        "startTime": 120,
+        "price": 450000,
+        "image": "https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg",
+        "tripAt": "2022-09-29T13:03:16.000Z",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z",
+        "fromStation": 3,
+        "toStation": 7,
+        "from": {
+          "id": 3,
+          "name": "Bến xe Nước Ngầm",
+          "address": "395 Kinh Đ. Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh",
+          "image": "https://storage.googleapis.com/fe-production/images/bx-nuoc-ngam.jpg",
+          "createdAt": "2022-08-17T02:03:16.000Z",
+          "updatedAt": "2022-08-17T02:21:41.000Z",
+          "provinceId": 49
+        },
+        "to": {
+          "id": 7,
+          "name": "Bến xe miền Tây",
+          "address": "395 Kinh Đ. Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh",
+          "image": "https://storage.googleapis.com/fe-production/images/bx-my-dinh.jpg",
+          "createdAt": "2022-08-17T02:03:16.000Z",
+          "updatedAt": "2022-08-17T02:21:41.000Z",
+          "provinceId": 49
+        }
+      },
+      "vehicleBusType": {
+        "id": 3,
+        "name": "giường nằm",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+      }
+    }
+  },
+  {
+    "id": 23,
+    "name": "A5",
+    "createdAt": "2022-08-17T02:03:16.000Z",
+    "updatedAt": "2022-10-18T04:34:50.000Z",
+    "vehicledId": 1,
+    "seatStatusId": 2,
+    "seatStatus": {
+      "id": 2,
+      "name": "BOOKED",
+      "createdAt": "2022-08-17T02:03:16.000Z",
+      "updatedAt": "2022-08-17T02:21:41.000Z"
+    },
+    "seatVehicle": {
+      "id": 1,
+      "name": "52-C1 0012",
+      "image": "https://storage.googleapis.com/vex-config/cms-tool/post/images/163/img_card.png",
+      "numberFloor": 2,
+      "numberSeat": 16,
+      "promo": "{\"percent\":0.2,\"max\":250}",
+      "point": "{\"pickup\":[1,2,3,4,5,6],\"dropoff\":[7,8,9,10,11,12,13,14,15,16,17,18,19,20]}",
+      "createdAt": "2022-08-17T02:03:16.000Z",
+      "updatedAt": "2022-08-17T02:21:41.000Z",
+      "busTypeId": 3,
+      "tripId": 1,
+      "passengerCarCompaniesId": 1,
+      "vehiclePassengerCarCompanies": {
+        "id": 1,
+        "name": "Xe Sao Việt",
+        "address": "10/2, District 12",
+        "content": "<div className=\"text-green-400\">Test 1</div>",
+        "review": "{\"safety\":6.5,\"clear info\":7,\"facilities\":5,\"service quality\":8,\"employee\":5.5}",
+        "comments": 234,
+        "image": "https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg",
+        "description": "Note that in the previous example, we have created objects inside another class and accessed the members from that class.",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+      },
+      "vehicleTrip": {
+        "id": 1,
+        "startTime": 120,
+        "price": 450000,
+        "image": "https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg",
+        "tripAt": "2022-09-29T13:03:16.000Z",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z",
+        "fromStation": 3,
+        "toStation": 7,
+        "from": {
+          "id": 3,
+          "name": "Bến xe Nước Ngầm",
+          "address": "395 Kinh Đ. Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh",
+          "image": "https://storage.googleapis.com/fe-production/images/bx-nuoc-ngam.jpg",
+          "createdAt": "2022-08-17T02:03:16.000Z",
+          "updatedAt": "2022-08-17T02:21:41.000Z",
+          "provinceId": 49
+        },
+        "to": {
+          "id": 7,
+          "name": "Bến xe miền Tây",
+          "address": "395 Kinh Đ. Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh",
+          "image": "https://storage.googleapis.com/fe-production/images/bx-my-dinh.jpg",
+          "createdAt": "2022-08-17T02:03:16.000Z",
+          "updatedAt": "2022-08-17T02:21:41.000Z",
+          "provinceId": 49
+        }
+      },
+      "vehicleBusType": {
+        "id": 3,
+        "name": "giường nằm",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+      }
+    }
+  },
+  {
+    "id": 24,
+    "name": "A6",
+    "createdAt": "2022-08-17T02:03:16.000Z",
+    "updatedAt": "2022-08-17T02:21:41.000Z",
+    "vehicledId": 1,
+    "seatStatusId": 1,
+    "seatStatus": {
+      "id": 1,
+      "name": "AVAILABLE",
+      "createdAt": "2022-08-17T02:03:16.000Z",
+      "updatedAt": "2022-08-17T02:21:41.000Z"
+    },
+    "seatVehicle": {
+      "id": 1,
+      "name": "52-C1 0012",
+      "image": "https://storage.googleapis.com/vex-config/cms-tool/post/images/163/img_card.png",
+      "numberFloor": 2,
+      "numberSeat": 16,
+      "promo": "{\"percent\":0.2,\"max\":250}",
+      "point": "{\"pickup\":[1,2,3,4,5,6],\"dropoff\":[7,8,9,10,11,12,13,14,15,16,17,18,19,20]}",
+      "createdAt": "2022-08-17T02:03:16.000Z",
+      "updatedAt": "2022-08-17T02:21:41.000Z",
+      "busTypeId": 3,
+      "tripId": 1,
+      "passengerCarCompaniesId": 1,
+      "vehiclePassengerCarCompanies": {
+        "id": 1,
+        "name": "Xe Sao Việt",
+        "address": "10/2, District 12",
+        "content": "<div className=\"text-green-400\">Test 1</div>",
+        "review": "{\"safety\":6.5,\"clear info\":7,\"facilities\":5,\"service quality\":8,\"employee\":5.5}",
+        "comments": 234,
+        "image": "https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg",
+        "description": "Note that in the previous example, we have created objects inside another class and accessed the members from that class.",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+      },
+      "vehicleTrip": {
+        "id": 1,
+        "startTime": 120,
+        "price": 450000,
+        "image": "https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg",
+        "tripAt": "2022-09-29T13:03:16.000Z",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z",
+        "fromStation": 3,
+        "toStation": 7,
+        "from": {
+          "id": 3,
+          "name": "Bến xe Nước Ngầm",
+          "address": "395 Kinh Đ. Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh",
+          "image": "https://storage.googleapis.com/fe-production/images/bx-nuoc-ngam.jpg",
+          "createdAt": "2022-08-17T02:03:16.000Z",
+          "updatedAt": "2022-08-17T02:21:41.000Z",
+          "provinceId": 49
+        },
+        "to": {
+          "id": 7,
+          "name": "Bến xe miền Tây",
+          "address": "395 Kinh Đ. Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh",
+          "image": "https://storage.googleapis.com/fe-production/images/bx-my-dinh.jpg",
+          "createdAt": "2022-08-17T02:03:16.000Z",
+          "updatedAt": "2022-08-17T02:21:41.000Z",
+          "provinceId": 49
+        }
+      },
+      "vehicleBusType": {
+        "id": 3,
+        "name": "giường nằm",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+      }
+    }
+  },
+  {
+    "id": 25,
+    "name": "A8",
+    "createdAt": "2022-08-17T02:03:16.000Z",
+    "updatedAt": "2022-08-17T02:21:41.000Z",
+    "vehicledId": 1,
+    "seatStatusId": 1,
+    "seatStatus": {
+      "id": 1,
+      "name": "AVAILABLE",
+      "createdAt": "2022-08-17T02:03:16.000Z",
+      "updatedAt": "2022-08-17T02:21:41.000Z"
+    },
+    "seatVehicle": {
+      "id": 1,
+      "name": "52-C1 0012",
+      "image": "https://storage.googleapis.com/vex-config/cms-tool/post/images/163/img_card.png",
+      "numberFloor": 2,
+      "numberSeat": 16,
+      "promo": "{\"percent\":0.2,\"max\":250}",
+      "point": "{\"pickup\":[1,2,3,4,5,6],\"dropoff\":[7,8,9,10,11,12,13,14,15,16,17,18,19,20]}",
+      "createdAt": "2022-08-17T02:03:16.000Z",
+      "updatedAt": "2022-08-17T02:21:41.000Z",
+      "busTypeId": 3,
+      "tripId": 1,
+      "passengerCarCompaniesId": 1,
+      "vehiclePassengerCarCompanies": {
+        "id": 1,
+        "name": "Xe Sao Việt",
+        "address": "10/2, District 12",
+        "content": "<div className=\"text-green-400\">Test 1</div>",
+        "review": "{\"safety\":6.5,\"clear info\":7,\"facilities\":5,\"service quality\":8,\"employee\":5.5}",
+        "comments": 234,
+        "image": "https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg;https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg",
+        "description": "Note that in the previous example, we have created objects inside another class and accessed the members from that class.",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+      },
+      "vehicleTrip": {
+        "id": 1,
+        "startTime": 120,
+        "price": 450000,
+        "image": "https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg",
+        "tripAt": "2022-09-29T13:03:16.000Z",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z",
+        "fromStation": 3,
+        "toStation": 7,
+        "from": {
+          "id": 3,
+          "name": "Bến xe Nước Ngầm",
+          "address": "395 Kinh Đ. Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh",
+          "image": "https://storage.googleapis.com/fe-production/images/bx-nuoc-ngam.jpg",
+          "createdAt": "2022-08-17T02:03:16.000Z",
+          "updatedAt": "2022-08-17T02:21:41.000Z",
+          "provinceId": 49
+        },
+        "to": {
+          "id": 7,
+          "name": "Bến xe miền Tây",
+          "address": "395 Kinh Đ. Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh",
+          "image": "https://storage.googleapis.com/fe-production/images/bx-my-dinh.jpg",
+          "createdAt": "2022-08-17T02:03:16.000Z",
+          "updatedAt": "2022-08-17T02:21:41.000Z",
+          "provinceId": 49
+        }
+      },
+      "vehicleBusType": {
+        "id": 3,
+        "name": "giường nằm",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+      }
+    }
+  }
+]

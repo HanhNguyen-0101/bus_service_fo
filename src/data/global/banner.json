@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "title": "AliBus - Cam kết hoàn 150% nếu nhà xe không giữ vé",
+        "description": "",
+        "banner": "https://static.vexere.com/production/banners/910/FS060922__leaderboard_1920x922-(5).jpg",
+        "enable": true,
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+    },
+    {
+        "id": 2,
+        "title": "2AliBus - Cam kết hoàn 150% nếu nhà xe không giữ vé",
+        "description": "Thuê xe giường nằm 32 - 38 - 40 chỗ",
+        "banner": "https://static.vexere.com/production/banners/910/FS060922__leaderboard_1920x922-(5).jpg",
+        "enable": false,
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+    },
+    {
+        "id": 3,
+        "title": "3AliBus - Cam kết hoàn 150% nếu nhà xe không giữ vé",
+        "description": "",
+        "banner": "https://static.vexere.com/production/banners/910/FS060922__leaderboard_1920x922-(5).jpg",
+        "enable": false,
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+    },
+    {
+        "id": 4,
+        "title": "4AliBus - Cam kết hoàn 150% nếu nhà xe không giữ vé",
+        "description": "Thuê xe giường nằm 32 - 38 - 40 chỗ",
+        "banner": "https://static.vexere.com/production/banners/910/FS060922__leaderboard_1920x922-(5).jpg",
+        "enable": false,
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+    },
+    {
+        "id": 5,
+        "title": "5AliBus - Cam kết hoàn 150% nếu nhà xe không giữ vé",
+        "description": "",
+        "banner": "https://static.vexere.com/production/banners/910/FS060922__leaderboard_1920x922-(5).jpg",
+        "enable": false,
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+    },
+    {
+        "id": 6,
+        "title": "6AliBus - Cam kết hoàn 150% nếu nhà xe không giữ vé",
+        "description": "Thuê xe giường nằm 32 - 38 - 40 chỗ",
+        "banner": "https://static.vexere.com/production/banners/910/FS060922__leaderboard_1920x922-(5).jpg",
+        "enable": false,
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+    }
+]

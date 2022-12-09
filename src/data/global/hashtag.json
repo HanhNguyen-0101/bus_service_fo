@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "POPULAR",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+    },
+    {
+        "id": 2,
+        "name": "PROMOTION",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+    },
+    {
+        "id": 3,
+        "name": "SERVICE",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+    },
+    {
+        "id": 4,
+        "name": "NEWS",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+    },
+    {
+        "id": 5,
+        "name": "CONNECTION",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+    },
+    {
+        "id": 6,
+        "name": "OFFERS",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+    },
+    {
+        "id": 7,
+        "name": "OPERATOR_PARTNER",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+    },
+    {
+        "id": 8,
+        "name": "COMPANY",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+    },
+    {
+        "id": 9,
+        "name": "BUS",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+    },
+    {
+        "id": 10,
+        "name": "TRIP",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+    },
+    {
+        "id": 11,
+        "name": "STATION",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+    },
+    {
+        "id": 12,
+        "name": "GLOBAL",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z"
+    }
+]

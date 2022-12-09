@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "name": "Nguyễn Thị Hồng Hạnh",
+        "email": "hanh@yopmail.com",
+        "password": "$2a$10$5yCG87u4cTNoznBx5IKFRuiLiTlW3mDgQjb3fuymaxNxC3nbPLBjy",
+        "avatar": "//www.gravatar.com/avatar/15852772572042c890c0cb5c222ddf96",
+        "phone": "0987654321",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-10-18T04:36:58.000Z",
+        "typeId": 1,
+        "typeObj": {
+            "id": 1,
+            "name": "admin",
+            "createdAt": "2022-08-17T02:03:16.000Z",
+            "updatedAt": "2022-08-17T02:21:41.000Z"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Alice Nguyen",
+        "email": "alice@yopmail.com",
+        "password": "$2a$10$5yCG87u4cTNoznBx5IKFRuiLiTlW3mDgQjb3fuymaxNxC3nbPLBjy",
+        "avatar": "//www.gravatar.com/avatar/15852772572042c890c0cb5c222ddf96",
+        "phone": "0987654321",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z",
+        "typeId": 2,
+        "typeObj": {
+            "id": 2,
+            "name": "client",
+            "createdAt": "2022-08-17T02:03:16.000Z",
+            "updatedAt": "2022-08-17T02:21:41.000Z"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Nhung Nguyen",
+        "email": "nhung@yopmail.com",
+        "password": "$2a$10$5yCG87u4cTNoznBx5IKFRuiLiTlW3mDgQjb3fuymaxNxC3nbPLBjy",
+        "avatar": "//www.gravatar.com/avatar/15852772572042c890c0cb5c222ddf96",
+        "phone": "0987654321",
+        "createdAt": "2022-08-17T02:03:16.000Z",
+        "updatedAt": "2022-08-17T02:21:41.000Z",
+        "typeId": 2,
+        "typeObj": {
+            "id": 2,
+            "name": "client",
+            "createdAt": "2022-08-17T02:03:16.000Z",
+            "updatedAt": "2022-08-17T02:21:41.000Z"
+        }
+    }
+]

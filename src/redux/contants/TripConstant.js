@@ -1,0 +1,11 @@
+export const GET_TRIP = 'GET_TRIP';
+export const GET_TRIP_SAGA = 'GET_TRIP_SAGA';
+
+export const DELETE_TRIP_SAGA = 'DELETE_TRIP_SAGA';
+export const ADD_TRIP_SAGA = 'ADD_TRIP_SAGA';
+export const EDIT_TRIP_SAGA = 'EDIT_TRIP_SAGA';
+
+export const FIND_TRIP_BY_KEYWORD = 'FIND_TRIP_BY_KEYWORD';
+export const FIND_TRIP_BY_KEYWORD_SAGA = 'FIND_TRIP_BY_KEYWORD_SAGA';
+export const FIND_TRIP_BY_ID = 'FIND_TRIP_BY_ID';
+export const FIND_TRIP_BY_ID_SAGA = 'FIND_TRIP_BY_ID_SAGA';

@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "name": "Bến xe miền Đông",
+    "address": "292 Đinh Bộ Lĩnh, P. 26, Q. Bình Thạnh, Thành phố Hồ Chí Minh",
+    "image": "https://storage.googleapis.com/fe-production/images/bx-mien-dong.jpg",
+    "createdAt": "2022-08-17T02:03:16.000Z",
+    "updatedAt": "2022-08-17T02:21:41.000Z",
+    "provinceId": 49,
+    "stationProvince": {
+      "id": 49,
+      "name": "Thành phố Hồ Chí Minh",
+      "createdAt": "2022-08-17T02:03:16.000Z",
+      "updatedAt": "2022-08-17T02:21:41.000Z"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Bến xe Gia Lâm",
+    "address": "395 Kinh Đ. Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh",
+    "image": "https://storage.googleapis.com/fe-production/images/bx-gia-lam.jpg",
+    "createdAt": "2022-08-17T02:03:16.000Z",
+    "updatedAt": "2022-08-17T02:21:41.000Z",
+    "provinceId": 49,
+    "stationProvince": {
+      "id": 49,
+      "name": "Thành phố Hồ Chí Minh",
+      "createdAt": "2022-08-17T02:03:16.000Z",
+      "updatedAt": "2022-08-17T02:21:41.000Z"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Bến xe Nước Ngầm",
+    "address": "395 Kinh Đ. Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh",
+    "image": "https://storage.googleapis.com/fe-production/images/bx-nuoc-ngam.jpg",
+    "createdAt": "2022-08-17T02:03:16.000Z",
+    "updatedAt": "2022-08-17T02:21:41.000Z",
+    "provinceId": 49,
+    "stationProvince": {
+      "id": 49,
+      "name": "Thành phố Hồ Chí Minh",
+      "createdAt": "2022-08-17T02:03:16.000Z",
+      "updatedAt": "2022-08-17T02:21:41.000Z"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Bến xe Mỹ Đình",
+    "address": "395 Kinh Đ. Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh",
+    "image": "https://storage.googleapis.com/fe-production/images/bx-my-dinh.jpg",
+    "createdAt": "2022-08-17T02:03:16.000Z",
+    "updatedAt": "2022-08-17T02:21:41.000Z",
+    "provinceId": 49,
+    "stationProvince": {
+      "id": 49,
+      "name": "Thành phố Hồ Chí Minh",
+      "createdAt": "2022-08-17T02:03:16.000Z",
+      "updatedAt": "2022-08-17T02:21:41.000Z"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Bến xe Trung tâm Đà Nẵng",
+    "address": "395 Kinh Đ. Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh",
+    "image": "https://storage.googleapis.com/fe-production/images/bx-gia-lam.jpg",
+    "createdAt": "2022-08-17T02:03:16.000Z",
+    "updatedAt": "2022-08-17T02:21:41.000Z",
+    "provinceId": 49,
+    "stationProvince": {
+      "id": 49,
+      "name": "Thành phố Hồ Chí Minh",
+      "createdAt": "2022-08-17T02:03:16.000Z",
+      "updatedAt": "2022-08-17T02:21:41.000Z"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Bến xe An Sương",
+    "address": "292 Đinh Bộ Lĩnh, P. 26, Q. Bình Thạnh, Thành phố Hồ Chí Minh",
+    "image": "https://storage.googleapis.com/fe-production/images/bx-nuoc-ngam.jpg",
+    "createdAt": "2022-08-17T02:03:16.000Z",
+    "updatedAt": "2022-08-17T02:21:41.000Z",
+    "provinceId": 49,
+    "stationProvince": {
+      "id": 49,
+      "name": "Thành phố Hồ Chí Minh",
+      "createdAt": "2022-08-17T02:03:16.000Z",
+      "updatedAt": "2022-08-17T02:21:41.000Z"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Bến xe miền Tây",
+    "address": "395 Kinh Đ. Vương, An Lạc, Bình Tân, Thành phố Hồ Chí Minh",
+    "image": "https://storage.googleapis.com/fe-production/images/bx-my-dinh.jpg",
+    "createdAt": "2022-08-17T02:03:16.000Z",
+    "updatedAt": "2022-08-17T02:21:41.000Z",
+    "provinceId": 49,
+    "stationProvince": {
+      "id": 49,
+      "name": "Thành phố Hồ Chí Minh",
+      "createdAt": "2022-08-17T02:03:16.000Z",
+      "updatedAt": "2022-08-17T02:21:41.000Z"
+    }
+  }
+]

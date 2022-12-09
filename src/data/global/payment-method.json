@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "logo": "https://storage.googleapis.com/fe-production/httpImage/moca.svg",
+    "name": "Ví điện Tử Moca trên ứng dụng Grab/ Ứng dụng ví Moca",
+    "subTitle": "Điện thoại của bạn phải được cài đặt ứng dụng Grab hoặc Moca",
+    "promo": "Thanh toán tại ví Moca - Nhập mã ALIBUS, giảm 10% tối đa 30K - ",
+    "conditionLink": "#",
+    "paymentIntro": "<p>1. Bạn sẽ được chuyển đến ứng dụng Moca</p> <p> 2. Nhập thông tin thẻ thanh toán mới hoặc chọn thanh toán qua Moca thẻ đã liên kết với Moca </p> <p>3. Chọn \"Thanh toán\" để tiến thành thanh toán vé</p>",
+    "createdAt": "2022-08-17T02:03:16.000Z",
+    "updatedAt": "2022-08-17T02:21:41.000Z"
+  },
+  {
+    "id": 2,
+    "logo": "https://storage.googleapis.com/fe-production/httpImage/momo.svg",
+    "name": "Ví MoMo",
+    "subTitle": "Điện thoại của bạn phải được cài đặt ứng dụng MoMo",
+    "promo": "Thanh toán tại ví MoMo - Nhập mã MOMOVXR, giảm 10% tối đa 30K - ",
+    "conditionLink": "#",
+    "paymentIntro": "<p>1. Bạn sẽ được chuyển đến ứng dụng Momo</p> <p> 2. Nhập thông tin thẻ thanh toán mới hoặc chọn thanh toán qua Momo thẻ đã liên kết với Momo </p> <p>3. Chọn \"Thanh toán\" để tiến thành thanh toán vé</p>",
+    "createdAt": "2022-08-17T02:03:16.000Z",
+    "updatedAt": "2022-08-17T02:21:41.000Z"
+  },
+  {
+    "id": 3,
+    "logo": "https://storage.googleapis.com/fe-production/httpImage/zalo_pay.svg",
+    "name": "Ví Zalopay",
+    "subTitle": "Điện thoại của bạn phải được cài đặt ứng dụng Zalopay",
+    "promo": "",
+    "conditionLink": "#",
+    "paymentIntro": "<p>1. Bạn sẽ được chuyển đến ứng dụng ZaloPay</p> <p> 2. Nhập thông tin thẻ thanh toán mới hoặc chọn thanh toán qua ZaloPay thẻ đã liên kết với ZaloPay </p> <p>3. Chọn \"Thanh toán\" để tiến thành thanh toán vé</p>",
+    "createdAt": "2022-08-17T02:03:16.000Z",
+    "updatedAt": "2022-08-17T02:21:41.000Z"
+  },
+  {
+    "id": 4,
+    "logo": "https://storage.googleapis.com/fe-production/httpImage/airpay.svg",
+    "name": "Ví ShopeePay",
+    "subTitle": "Điện thoại của bạn phải được cài đặt ứng dụng ShopeePay",
+    "promo": "",
+    "conditionLink": "#",
+    "paymentIntro": "<p>1. Bạn sẽ được chuyển đến ứng dụng ShopeePay</p> <p> 2. Nhập thông tin thẻ thanh toán mới hoặc chọn thanh toán qua ShopeePay thẻ đã liên kết với ShopeePay </p> <p>3. Chọn \"Thanh toán\" để tiến thành thanh toán vé</p>",
+    "createdAt": "2022-08-17T02:03:16.000Z",
+    "updatedAt": "2022-08-17T02:21:41.000Z"
+  },
+  {
+    "id": 5,
+    "logo": "https://storage.googleapis.com/fe-production/httpImage/credit_card.svg",
+    "name": "Thẻ thanh toán quốc tế",
+    "subTitle": "Thẻ Visa, MasterCard, JCB",
+    "promo": "",
+    "conditionLink": "#",
+    "paymentIntro": "",
+    "createdAt": "2022-08-17T02:03:16.000Z",
+    "updatedAt": "2022-08-17T02:21:41.000Z"
+  },
+  {
+    "id": 6,
+    "logo": "https://storage.googleapis.com/fe-production/httpImage/vn_pay.svg",
+    "name": "Thanh toán VNPAY - QR",
+    "subTitle": "Thiết bị cần cài đặt Ứng dụng ngân hàng (Mobile Banking) hoặc Ví VNPAY",
+    "promo": "",
+    "conditionLink": "#",
+    "paymentIntro": "<p>1. Bạn sẽ được chuyển đến ứng dụng Ví VNPAY</p> <p> 2. Nhập thông tin thẻ thanh toán mới hoặc chọn thanh toán qua Ví VNPAY thẻ đã liên kết với Ví VNPAY </p> <p>3. Chọn \"Thanh toán\" để tiến thành thanh toán vé</p>",
+    "createdAt": "2022-08-17T02:03:16.000Z",
+    "updatedAt": "2022-08-17T02:21:41.000Z"
+  },
+  {
+    "id": 7,
+    "logo": "https://storage.googleapis.com/fe-production/httpImage/bank_transfer.svg",
+    "name": "Chuyển khoản ngân hàng",
+    "subTitle": "Chuyển khoản đến tài khoản ngân hàng của VeXeRe",
+    "promo": "",
+    "conditionLink": "#",
+    "paymentIntro": "",
+    "createdAt": "2022-08-17T02:03:16.000Z",
+    "updatedAt": "2022-08-17T02:21:41.000Z"
+  },
+  {
+    "id": 8,
+    "logo": "https://storage.googleapis.com/fe-production/httpImage/atm.svg",
+    "name": "Tài khoản phải có đăng ký Internet banking",
+    "subTitle": "Thẻ Visa, MasterCard, JCB",
+    "promo": "",
+    "conditionLink": "#",
+    "paymentIntro": "",
+    "createdAt": "2022-08-17T02:03:16.000Z",
+    "updatedAt": "2022-08-17T02:21:41.000Z"
+  },
+  {
+    "id": 9,
+    "logo": "https://storage.googleapis.com/fe-production/httpImage/local_convenience_store.svg",
+    "name": "Tại cửa hàng tiện lợi hoặc siêu thị",
+    "subTitle": "Bạn có thể thanh toán tại các cửa hàng tiện lợi, Viettel post hoặc siêu thị",
+    "promo": "",
+    "conditionLink": "#",
+    "paymentIntro": "",
+    "createdAt": "2022-08-17T02:03:16.000Z",
+    "updatedAt": "2022-08-17T02:21:41.000Z"
+  }
+]
