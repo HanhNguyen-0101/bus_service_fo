@@ -1,7 +1,11 @@
 {
-  "name": "my-react-app",
+  "name": "bus_service_fo",
   "version": "0.1.0",
   "private": true,
+  "author": {
+    "name": "Alice Nguyen",
+    "email": "hanhnguyen.learning@gmail.com"
+  },
   "dependencies": {
     "@headlessui/react": "^1.6.6",
     "@heroicons/react": "^1.0.6",
