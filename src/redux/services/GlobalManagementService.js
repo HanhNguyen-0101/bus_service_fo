@@ -7,7 +7,7 @@ class GlobalManagementService extends baseService {
     super();
   }
   getAllArticle() {
-    return this.getAll("global/article");
+    return this.getBase("global/article");
   }
   getArticleById({ id }) {
     return this.getBase(`global/article/${id}`);
@@ -28,7 +28,7 @@ class GlobalManagementService extends baseService {
 
   /******************Banner - DONE******************/
   getAllBanner() {
-    return this.getAll("global/banner");
+    return this.getBase("global/banner");
   }
   getBannerById({ id }) {
     return this.getBase(`global/banner/${id}`);
@@ -46,7 +46,7 @@ class GlobalManagementService extends baseService {
 
   /******************Payment Method - DONE******************/
   getAllPaymentMethod() {
-    return this.getAll("global/payment-method");
+    return this.getBase("global/payment-method");
   }
   getPaymentMethodById({ id }) {
     return this.getBase(`global/payment-method/${id}`);
@@ -64,7 +64,7 @@ class GlobalManagementService extends baseService {
 
   /******************HASHTAG - DONE******************/
   getAllHashtag() {
-    return this.getAll("global/hashtag");
+    return this.getBase("global/hashtag");
   }
   getHashtagById({ id }) {
     return this.getBase(`global/hashtag/${id}`);
@@ -83,7 +83,7 @@ class GlobalManagementService extends baseService {
   }
   /********************PROVINCE - DONE****************/
   getAllProvince() {
-    return this.getAll("global/province");
+    return this.getBase("global/province");
   }
   getProvinceById({ id }) {
     return this.getBase(`global/province/${id}`);
@@ -100,7 +100,7 @@ class GlobalManagementService extends baseService {
 
   /*****************BUS TYPE - DONE*******************/
   getAllBusType() {
-    return this.getAll("global/bus-type");
+    return this.getBase("global/bus-type");
   }
   getBusTypeById({ id }) {
     return this.getBase(`global/bus-type/${id}`);
@@ -117,7 +117,7 @@ class GlobalManagementService extends baseService {
 
   /*****************User Type - DONE*******************/
   getAllUsertype() {
-    return this.getAll("global/user-type");
+    return this.getBase("global/user-type");
   }
   getUsertypeById({ id }) {
     return this.getBase(`global/user-type/${id}`);
@@ -134,7 +134,7 @@ class GlobalManagementService extends baseService {
 
   /******************Status Seat - DONE******************/
   getAllStatus() {
-    return this.getAll("global/status-seat");
+    return this.getBase("global/status-seat");
   }
   getStatusById({ id }) {
     return this.getBase(`global/status-seat/${id}`);
@@ -151,7 +151,7 @@ class GlobalManagementService extends baseService {
 
   /********************POINT - DONE****************/
   getAllPoint() {
-    return this.getAll("global/point");
+    return this.getBase("global/point");
   }
   getPointById({ id }) {
     return this.getBase(`global/point/${id}`);
@@ -168,7 +168,7 @@ class GlobalManagementService extends baseService {
 
   /********************ORDER STATUS - DONE****************/
   getAllOrderStatus() {
-    return this.getAll("global/order-status");
+    return this.getBase("global/order-status");
   }
   getOrderStatusById({ id }) {
     return this.getBase(`global/order-status/${id}`);
@@ -185,7 +185,7 @@ class GlobalManagementService extends baseService {
 
   /********************PAYMENT STATUS - DONE****************/
   getAllPaymentStatus() {
-    return this.getAll("global/payment-status");
+    return this.getBase("global/payment-status");
   }
   getPaymentStatusById({ id }) {
     return this.getBase(`global/payment-status/${id}`);

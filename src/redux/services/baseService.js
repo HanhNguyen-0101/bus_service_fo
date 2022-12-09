@@ -1,5 +1,5 @@
 import axios from "axios";
-import { DOMAIN, STATUS_CODE, TOKEN } from "../../utils/configSetting.js";
+import { DOMAIN, TOKEN } from "../../utils/configSetting.js";
 
 export class baseService {
   // eslint-disable-next-line no-useless-constructor
@@ -54,10 +54,5 @@ export class baseService {
         Authorization: `Bearer ${localStorage.getItem(TOKEN)}`,
       },
     });
-  }
-
-  getAll(url) {
-    const data = require(`./../../data/${url}.json`);
-    return { data, status: STATUS_CODE.SUCCESS };
   }
 }
