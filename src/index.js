@@ -9,17 +9,17 @@ import "react-quill/dist/quill.snow.css";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 import store from "./redux/configStore";
-import { BrowserRouter } from "react-router-dom";
+import { HashRouter } from "react-router-dom";
 import { history } from "./utils/history";
 import "./i18n";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
-  <BrowserRouter history={history}>
+  <HashRouter history={history}>
     <Provider store={store}>
       <App />
     </Provider>
-  </BrowserRouter>
+  </HashRouter>
 );
 
 // If you want to start measuring performance in your app, pass a function
