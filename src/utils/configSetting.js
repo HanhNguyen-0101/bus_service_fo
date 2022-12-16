@@ -1,4 +1,4 @@
-export const DOMAIN = 'http://localhost:3001/api/v1/';
+export const DOMAIN = 'https://eastern-elfin-sousaphone.glitch.me/api/v1/';
 export const TOKEN = 'token';
 export const USER_LOGIN = 'USER_LOGIN';
 export const LOCATION_SEARCH = 'LOCATION_SEARCH';
