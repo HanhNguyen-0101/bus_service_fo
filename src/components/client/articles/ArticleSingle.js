@@ -56,7 +56,7 @@ export default function ArticleSingle({ data, articleList }) {
             </div>
           </div>
           <div className="container items-center max-w-6xl px-6 mx-auto flex justify-start space-x-3">
-            <Avatar shape="square" size={64} src="/favicon.png" />
+            <Avatar shape="square" size={64} src="favicon.png" />
             <div>
               <p className="font-medium py-0.5">AliBus Vietnam</p>
               <p className="text-sm py-0.5 text-gray-400">

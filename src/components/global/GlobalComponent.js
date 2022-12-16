@@ -6,7 +6,7 @@ import { NavLink } from "react-router-dom";
 export const Logo = () => {
   return (
     <>
-      <img src="/favicon.png" width={60} alt="favicon.png" />
+      <img src="favicon.png" width={60} alt="favicon.png" />
       <h1 className="text-3xl px-2 font-bold text-alibus font-sans">AliBus</h1>
     </>
   );

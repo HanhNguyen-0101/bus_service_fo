@@ -108,11 +108,11 @@ export default function Header() {
           >
             <Option value="vi">
               <span className="font-bold mr-1">VN</span>{" "}
-              <Avatar size={20} src="/images/vi.png" />
+              <Avatar size={20} src="images/vi.png" />
             </Option>
             <Option value="en">
               <span className="font-bold mr-1">EN</span>{" "}
-              <Avatar size={20} src="/images/en.png" />
+              <Avatar size={20} src="images/en.png" />
             </Option>
           </Select>
           <Hotline />
@@ -238,13 +238,13 @@ export default function Header() {
               >
                 <Option value="vi">
                   <Space>
-                    <Avatar shape="square" size={28} src="/images/vi.png" />
+                    <Avatar shape="square" size={28} src="images/vi.png" />
                     <span className="font-medium text-base">VN</span>
                   </Space>
                 </Option>
                 <Option value="en">
                   <Space>
-                    <Avatar shape="square" size={28} src="/images/en.png" />
+                    <Avatar shape="square" size={28} src="images/en.png" />
                     <span className="font-medium text-base">EN</span>
                   </Space>
                 </Option>

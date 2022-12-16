@@ -113,7 +113,7 @@ export default function Footer() {
                 aria-label="Go to homepage"
                 className="flex flex-col justify-center items-center"
               >
-                <img src="/favicon.png" width={100} alt="favicon.png" />
+                <img src="favicon.png" width={100} alt="favicon.png" />
                 <br />
                 <h1 className="text-3xl px-2 font-bold text-alibus font-sans">
                   AliBus

@@ -7,7 +7,7 @@ export default function Loading() {
   const loadingClass = isLoading ? "show-loading" : "hide-loading";
   return (
     <div className={`${LoadingStyle.loading} ${LoadingStyle[loadingClass]}`}>
-      <img alt="loading" src="/favicon.png" width={120} />
+      <img alt="loading" src="favicon.png" width={120} />
     </div>
   );
 }

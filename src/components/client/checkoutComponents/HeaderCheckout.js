@@ -43,11 +43,11 @@ export default function HeaderCheckout({ time }) {
           >
             <Option value="vi">
               <span className="font-bold mr-1">VN</span>{" "}
-              <Avatar size={20} src="/images/vi.png" />
+              <Avatar size={20} src="images/vi.png" />
             </Option>
             <Option value="en">
               <span className="font-bold mr-1">EN</span>{" "}
-              <Avatar size={20} src="/images/en.png" />
+              <Avatar size={20} src="images/en.png" />
             </Option>
           </Select>
       </div>
